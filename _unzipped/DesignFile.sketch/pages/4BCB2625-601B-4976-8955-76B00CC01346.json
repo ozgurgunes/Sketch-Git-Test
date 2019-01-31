@@ -459,7 +459,7 @@
                                     "value": {
                                         "_class": "MSJSONFileReference",
                                         "_ref_class": "MSImageData",
-                                        "_ref": "images/dbb4bb8bb940462f6ea3b5891cd311febdae457e.png"
+                                        "_ref": "images/3976e4eb5eaa7a05b1807e68c08ca3b0cfd7f25a.png"
                                     }
                                 },
                                 {
@@ -2360,7 +2360,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 1,
+            "layerListExpandedType": 0,
             "name": "Player",
             "nameIsFixed": true,
             "resizingConstraint": 63,
@@ -10125,10 +10125,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 224,
+                        "height": 504,
                         "width": 375,
                         "x": 0,
-                        "y": 294
+                        "y": 154
                     },
                     "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
