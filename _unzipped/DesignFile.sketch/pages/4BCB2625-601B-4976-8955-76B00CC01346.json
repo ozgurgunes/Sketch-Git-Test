@@ -860,11 +860,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": true,
             "presetDictionary": {
-                "width": 375,
-                "offersLandscapeVariant": 1,
-                "name": "iPhone X",
                 "height": 812,
-                "allowResizedMatching": 1
+                "offersLandscapeVariant": 1,
+                "width": 375,
+                "allowResizedMatching": 1,
+                "name": "iPhone X"
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -956,8 +956,8 @@
                     },
                     "flow": {
                         "_class": "MSImmutableFlowConnection",
-                        "animationType": 0,
-                        "destinationArtboardID": "71E544C0-8181-46BC-AA0C-C35FC15BDA04"
+                        "animationType": 2,
+                        "destinationArtboardID": "D9BF9236-5A8D-4F19-9CFC-1EC9E40F02D2"
                     },
                     "frame": {
                         "_class": "rect",
@@ -2323,11 +2323,11 @@
                 "totalWidth": 375
             },
             "presetDictionary": {
-                "width": 375,
-                "offersLandscapeVariant": 1,
-                "name": "iPhone X",
                 "height": 812,
-                "allowResizedMatching": 1
+                "offersLandscapeVariant": 1,
+                "width": 375,
+                "allowResizedMatching": 1,
+                "name": "iPhone X"
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -10266,11 +10266,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "width": 375,
-                "offersLandscapeVariant": 1,
-                "name": "iPhone X",
                 "height": 812,
-                "allowResizedMatching": 1
+                "offersLandscapeVariant": 1,
+                "width": 375,
+                "allowResizedMatching": 1,
+                "name": "iPhone X"
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -10429,12 +10429,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0.1,
                                             "aspectRatio": {
-                                                "constant": 416,
-                                                "model_version": 0.1,
-                                                "enabled": 1,
-                                                "modelID": "constraint_969c2a48-201d-4452-958c-9f92c3fc00d7",
                                                 "model_class": "ADModelConstraint",
-                                                "multiplier": 375
+                                                "model_version": 0.1,
+                                                "multiplier": 375,
+                                                "constant": 416,
+                                                "enabled": 1,
+                                                "modelID": "constraint_969c2a48-201d-4452-958c-9f92c3fc00d7"
                                             },
                                             "modelID": "viewConstraints_9070895d-a2da-4a74-a185-81b7848c23f0",
                                             "model_class": "ADModelViewConstraints",
@@ -17894,11 +17894,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "width": 375,
-                "offersLandscapeVariant": 1,
-                "name": "iPhone X",
                 "height": 812,
-                "allowResizedMatching": 1
+                "offersLandscapeVariant": 1,
+                "width": 375,
+                "allowResizedMatching": 1,
+                "name": "iPhone X"
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -19187,11 +19187,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "width": 375,
-                "offersLandscapeVariant": 1,
-                "name": "iPhone X",
                 "height": 812,
-                "allowResizedMatching": 1
+                "offersLandscapeVariant": 1,
+                "width": 375,
+                "allowResizedMatching": 1,
+                "name": "iPhone X"
             },
             "resizesContent": false,
             "verticalRulerData": {
