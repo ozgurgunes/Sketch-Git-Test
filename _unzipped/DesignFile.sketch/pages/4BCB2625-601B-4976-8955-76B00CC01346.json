@@ -860,11 +860,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": true,
             "presetDictionary": {
-                "height": 812,
-                "offersLandscapeVariant": 1,
-                "width": 375,
                 "allowResizedMatching": 1,
-                "name": "iPhone X"
+                "offersLandscapeVariant": 1,
+                "name": "iPhone X",
+                "height": 812,
+                "width": 375
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -2323,11 +2323,11 @@
                 "totalWidth": 375
             },
             "presetDictionary": {
-                "height": 812,
-                "offersLandscapeVariant": 1,
-                "width": 375,
                 "allowResizedMatching": 1,
-                "name": "iPhone X"
+                "offersLandscapeVariant": 1,
+                "name": "iPhone X",
+                "height": 812,
+                "width": 375
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -10266,11 +10266,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 812,
-                "offersLandscapeVariant": 1,
-                "width": 375,
                 "allowResizedMatching": 1,
-                "name": "iPhone X"
+                "offersLandscapeVariant": 1,
+                "name": "iPhone X",
+                "height": 812,
+                "width": 375
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -10429,12 +10429,12 @@
                                             "scaleFactor": 1,
                                             "model_version": 0.1,
                                             "aspectRatio": {
-                                                "model_class": "ADModelConstraint",
+                                                "enabled": 1,
                                                 "model_version": 0.1,
                                                 "multiplier": 375,
-                                                "constant": 416,
-                                                "enabled": 1,
-                                                "modelID": "constraint_969c2a48-201d-4452-958c-9f92c3fc00d7"
+                                                "modelID": "constraint_969c2a48-201d-4452-958c-9f92c3fc00d7",
+                                                "model_class": "ADModelConstraint",
+                                                "constant": 416
                                             },
                                             "modelID": "viewConstraints_9070895d-a2da-4a74-a185-81b7848c23f0",
                                             "model_class": "ADModelViewConstraints",
@@ -17894,11 +17894,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 812,
-                "offersLandscapeVariant": 1,
-                "width": 375,
                 "allowResizedMatching": 1,
-                "name": "iPhone X"
+                "offersLandscapeVariant": 1,
+                "name": "iPhone X",
+                "height": 812,
+                "width": 375
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -19187,11 +19187,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 812,
-                "offersLandscapeVariant": 1,
-                "width": 375,
                 "allowResizedMatching": 1,
-                "name": "iPhone X"
+                "offersLandscapeVariant": 1,
+                "name": "iPhone X",
+                "height": 812,
+                "width": 375
             },
             "resizesContent": false,
             "verticalRulerData": {
@@ -32046,6 +32046,115 @@
                     "hasClippingMask": false,
                     "style": {
                         "_class": "style",
+                        "endMarkerType": 0,
+                        "fills": [
+                            {
+                                "_class": "fill",
+                                "isEnabled": true,
+                                "color": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 0.5333333333333333,
+                                    "green": 0.5333333333333333,
+                                    "red": 0.5333333333333333
+                                },
+                                "fillType": 0,
+                                "noiseIndex": 0,
+                                "noiseIntensity": 0,
+                                "patternFillType": 1,
+                                "patternTileScale": 1
+                            }
+                        ],
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "edited": false,
+                    "isClosed": true,
+                    "pointRadiusBehaviour": 1,
+                    "points": [
+                        {
+                            "_class": "curvePoint",
+                            "cornerRadius": 0,
+                            "curveFrom": "{0, 0}",
+                            "curveMode": 1,
+                            "curveTo": "{0, 0}",
+                            "hasCurveFrom": false,
+                            "hasCurveTo": false,
+                            "point": "{0, 0}"
+                        },
+                        {
+                            "_class": "curvePoint",
+                            "cornerRadius": 0,
+                            "curveFrom": "{1, 0}",
+                            "curveMode": 1,
+                            "curveTo": "{1, 0}",
+                            "hasCurveFrom": false,
+                            "hasCurveTo": false,
+                            "point": "{1, 0}"
+                        },
+                        {
+                            "_class": "curvePoint",
+                            "cornerRadius": 0,
+                            "curveFrom": "{1, 1}",
+                            "curveMode": 1,
+                            "curveTo": "{1, 1}",
+                            "hasCurveFrom": false,
+                            "hasCurveTo": false,
+                            "point": "{1, 1}"
+                        },
+                        {
+                            "_class": "curvePoint",
+                            "cornerRadius": 0,
+                            "curveFrom": "{0, 1}",
+                            "curveMode": 1,
+                            "curveTo": "{0, 1}",
+                            "hasCurveFrom": false,
+                            "hasCurveTo": false,
+                            "point": "{0, 1}"
+                        }
+                    ],
+                    "fixedRadius": 0,
+                    "hasConvertedToNewRoundCorners": true
+                },
+                {
+                    "_class": "rectangle",
+                    "do_objectID": "EF0C7159-4B53-49D0-924C-998006757E87",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "0836C8D9-B4A3-4A1C-AC5D-722B4B632C9E",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "F88D0AE5-A03F-4F82-B7D8-0A38B3DD1E4D",
+                        "constrainProportions": false,
+                        "height": 261,
+                        "width": 300,
+                        "x": 106,
+                        "y": 176
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Rectangle Copy",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "9FA86F0A-7B33-4909-A3C6-35AC1A158BE1",
                         "endMarkerType": 0,
                         "fills": [
                             {
