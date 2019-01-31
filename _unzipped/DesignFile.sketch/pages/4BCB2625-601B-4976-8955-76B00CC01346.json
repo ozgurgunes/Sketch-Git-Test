@@ -954,6 +954,11 @@
                         "layerOptions": 0,
                         "shouldTrim": false
                     },
+                    "flow": {
+                        "_class": "MSImmutableFlowConnection",
+                        "animationType": 0,
+                        "destinationArtboardID": "71E544C0-8181-46BC-AA0C-C35FC15BDA04"
+                    },
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
@@ -18223,6 +18228,11 @@
                                 "includedLayerIds": [],
                                 "layerOptions": 0,
                                 "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "animationType": 1,
+                                "destinationArtboardID": "1C24BF8A-82BE-4E5A-B6F0-93EF43B9ABD3"
                             },
                             "frame": {
                                 "_class": "rect",
