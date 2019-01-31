@@ -1,0 +1,393 @@
+{
+    "commit": "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+    "pagesAndArtboards": {
+        "DF2E7E98-54B3-4411-AA3A-8EB07B5A0393": {
+            "name": "Material Design Symbols",
+            "artboards": {
+                "C63FA2FE-661B-4871-BC5E-149732C69211": {
+                    "name": "Material/Icons black/report"
+                },
+                "A96D81E1-9C8B-48F0-9ED9-71D1A61F0D65": {
+                    "name": "Material/Light/Search 360dp"
+                },
+                "5894CF4F-D5EF-4513-AA97-BD78FB4F58DA": {
+                    "name": "Material/Android/Keyboard 360dp dark"
+                },
+                "C6A64339-71D3-4141-8C1D-E07D7FA7130C": {
+                    "name": "Material/Light/Text warning icon"
+                },
+                "328FA9B1-8734-4742-AC7A-64E4C8C68A61": {
+                    "name": "Material/Icons white/add"
+                },
+                "995A0AB9-F1C4-40BF-AC3D-16A85E938F88": {
+                    "name": "Material/Android/Status bar 360dp black"
+                },
+                "D284E6EB-A900-4B52-B3A1-0461AFBE8EFD": {
+                    "name": "Material/Android/Status bar 1024dp black"
+                },
+                "47DD7060-A7D9-4AED-B73F-35858FFD23E2": {
+                    "name": "Material/Chrome OS/Title bar controls"
+                },
+                "8ED503B9-656D-4408-A2AB-A56BECC0CE6A": {
+                    "name": "Material/Icons white/check"
+                },
+                "4592D8E2-B720-4AE0-8E66-60C5825B1B90": {
+                    "name": "Material/Icons black/volume up"
+                },
+                "F32610AF-0B03-41D6-885A-1C7B78E4CF34": {
+                    "name": "Material/Icons white/mic"
+                },
+                "1C0F34E7-D73C-401F-BE34-78257BE6B795": {
+                    "name": "Material/Dark/Checkbox off"
+                },
+                "6313D752-918D-4EDC-8AB3-89A9D6E71E6D": {
+                    "name": "Material/Icons black/share"
+                },
+                "7C96FB54-8B3C-4119-A197-5B5DD5CDBB11": {
+                    "name": "Material/Icons black/expand less"
+                },
+                "A0A89F52-F9DA-49E2-BCBC-77F5527372AF": {
+                    "name": "Material/Android/Status bar 600dp light gray"
+                },
+                "76C8A3F1-FA9D-4553-9035-374EEF18CBF2": {
+                    "name": "Material/Icons black/arrow back"
+                },
+                "7E066CA2-4CCE-4955-9653-088554F105B6": {
+                    "name": "Material/Icons black/reply"
+                },
+                "0196C540-9D38-479D-A1BB-EBFA50AFFCE7": {
+                    "name": "Material/Light/Search 600dp"
+                },
+                "213F9FEF-B8C6-4155-8D40-76E291D6B18B": {
+                    "name": "Material/Dark/Text warning icon"
+                },
+                "E33E2440-9E0D-4801-A0C4-5F0D7AA40DE6": {
+                    "name": "Material/Icons white/more vert"
+                },
+                "186A9402-542F-4797-9086-36F2ED75B51E": {
+                    "name": "Material/Android/Status bar 1024dp light gray"
+                },
+                "AEFB86A8-E828-49B6-AB49-11ED7931A2D1": {
+                    "name": "Material/Android/Navbar 360dp black"
+                },
+                "B6631D7E-A61A-4274-BD24-381F6FFD1403": {
+                    "name": "Material/Icons white/chevron right"
+                },
+                "5BCDC1A1-5F24-4FC3-AC1B-7E3FA11FF3CB": {
+                    "name": "Material/Icons white/fullscreen exit"
+                },
+                "A0EAD81F-5486-461D-846C-2016D95CE579": {
+                    "name": "Material/Icons white/close"
+                },
+                "7825C06D-7A52-4E7D-8245-5052F7913D1C": {
+                    "name": "Material/Light/Date picker"
+                },
+                "EA0D3811-7D36-42F7-AC51-032CAFB6C3C0": {
+                    "name": "Material/Icons black/shopping cart"
+                },
+                "DF5BC832-48AB-419D-90D4-EE27D9A22EA9": {
+                    "name": "Material/Dark/Radio button off"
+                },
+                "2C92EED2-E416-44C1-A04C-BA50684AE2AB": {
+                    "name": "Material/Icons white/content cut"
+                },
+                "20A67110-5219-4DD1-9DB3-15E1D4C41261": {
+                    "name": "Material/Light/Switch off"
+                },
+                "F2777179-6035-4E81-966F-A0FCE3EE376F": {
+                    "name": "Material/Icons black/forum"
+                },
+                "3D9F5A8F-3429-4C85-881D-96C7B13601E9": {
+                    "name": "Material/Android/Status bar content light"
+                },
+                "1951ED1F-0FDF-4C14-AD0D-6CA404C97447": {
+                    "name": "Material/Light/Checkbox off"
+                },
+                "066B6AE1-7EBB-4207-90CF-C27C9EE2DA4A": {
+                    "name": "Material/Icons white/expand more"
+                },
+                "10E7654C-E936-403F-9CEF-AA512F39B60F": {
+                    "name": "Material/Icons white/arrow drop down"
+                },
+                "6AA71607-3443-470E-AE08-C90C98DE5007": {
+                    "name": "Material/Icons black/apps"
+                },
+                "A99159F4-198A-46FC-A858-12C2401B1D88": {
+                    "name": "Material/Icons black/local offer"
+                },
+                "D1BC2390-6003-4109-BA19-235D95440E57": {
+                    "name": "Material/Icons black/archive"
+                },
+                "6041436E-44E9-48AF-96B0-B7BA1AC092B4": {
+                    "name": "Material/Icons white/share"
+                },
+                "1A49B31B-4EE7-4242-BB07-352117312FEF": {
+                    "name": "Material/Icons black/bluetooth"
+                },
+                "C8E4FF11-72CD-46F2-866D-EC7BDB7E8D59": {
+                    "name": "Material/Icons black/chevron left"
+                },
+                "DDB0E68B-BEEE-4E3A-9844-0443F2E09696": {
+                    "name": "Material/Icons black/refresh"
+                },
+                "730EB3D5-26DD-44CA-B55B-A46E6040A601": {
+                    "name": "Material/Icons black/data usage"
+                },
+                "5CEA9A60-81F1-44ED-BEE3-D1C565CA5E36": {
+                    "name": "Material/Android/Status bar 360dp light gray"
+                },
+                "D11A2A32-7CF0-4C46-B91D-9FE1B6C7CBB3": {
+                    "name": "Material/Icons white/search"
+                },
+                "13D8A4EE-13F1-48F8-8236-3FAFBFEBF397": {
+                    "name": "Material/Icons black/place"
+                },
+                "15691371-2230-4C52-AF25-4FB3988CFAE5": {
+                    "name": "Material/Icons black/content paste"
+                },
+                "CFA7EEFA-CCB1-406B-BC90-5586CF3FD66B": {
+                    "name": "Material/Icons black/people"
+                },
+                "3BF30022-6F6A-4A89-B1AA-2A20BEF8A94B": {
+                    "name": "Material/Dark/Switch on"
+                },
+                "CA799155-0C43-4E3B-8162-8521128A451A": {
+                    "name": "Material/Icons black/more vert"
+                },
+                "233409B7-0392-42F7-93DB-137FDEA632EB": {
+                    "name": "Material/Chrome OS/Title bar 1280dp grey"
+                },
+                "A1AD6A18-C448-4A95-B0AC-BD4B6A99A281": {
+                    "name": "Material/Icons black/chevron right"
+                },
+                "EDEEAE9C-B2B9-4DE2-AE2B-2205BB8D9155": {
+                    "name": "Material/Icons black/favorite"
+                },
+                "4BBFCFED-5252-47F8-B573-AD00ECF12F6D": {
+                    "name": "Material/Android/Status bar 600dp black"
+                },
+                "DC157B7B-09F2-47EB-B053-DDD864424E6A": {
+                    "name": "Material/Light/Time picker"
+                },
+                "7C5A0EC0-D963-4207-80CB-49ED115BF9B5": {
+                    "name": "Material/Android/Navbar 1024dp black"
+                },
+                "4B393FDE-9DAB-406F-BB20-6C0BC00682B4": {
+                    "name": "Material/Light/Radio button on"
+                },
+                "FBDB06DC-BF2F-4E58-8C7C-2C851DD75DD3": {
+                    "name": "Material/Icons white/delete"
+                },
+                "34CA2EB5-EBA4-4D7A-9C5B-1EC39EA97E4F": {
+                    "name": "Material/Icons black/close"
+                },
+                "D813F6D7-B119-44F0-ABA6-6CDCA0C1B81E": {
+                    "name": "Material/Icons black/add"
+                },
+                "6BC89F5E-F1C9-4908-8616-AD0A1D4A4BA1": {
+                    "name": "Material/Icons white/refresh"
+                },
+                "C004F5D5-FFCB-4D4A-A0A7-F720777DF6B5": {
+                    "name": "Material/Icons white/content paste"
+                },
+                "CF51E153-B8F1-4EDC-B3AB-14C2FE10C60F": {
+                    "name": "Material/Dark/Switch off"
+                },
+                "56CFF7DF-BD97-487A-A993-F538BF2E201D": {
+                    "name": "Material/Android/Keyboard 360dp light"
+                },
+                "69A74816-63FF-4D4E-A9DE-D98FD1AB8ADE": {
+                    "name": "Material/Icons black/call"
+                },
+                "8C56D8D4-667A-4F5E-AF54-AA07AA6353EA": {
+                    "name": "Material/Icons white/content copy"
+                },
+                "C3FFA0A9-A2DD-4C96-956C-9EB0A9F93327": {
+                    "name": "Material/Icons black/cancel"
+                },
+                "28D270B5-5870-4F30-A240-EFF3AAEF3812": {
+                    "name": "Material/Icons black/arrow forward"
+                },
+                "57C2B1F6-1718-4BD9-85D3-39BEFA28613B": {
+                    "name": "Material/Icons white/arrow back"
+                },
+                "51ECB036-08B1-4215-94EB-E081ABC894E2": {
+                    "name": "Material/Icons black/replay"
+                },
+                "8E30A0EB-7E44-41FB-B562-98898C86C5CF": {
+                    "name": "Material/Icons black/arrow drop up"
+                },
+                "73267C3C-6029-463C-B972-47DC8892BFBB": {
+                    "name": "Material/Icons white/replay"
+                },
+                "0C54E918-F5AA-40AE-9818-462978C9DD61": {
+                    "name": "Material/Icons black/arrow drop down"
+                },
+                "841CDEEC-A423-4711-9502-6F8D9E9DE6CD": {
+                    "name": "Material/Icons black/delete"
+                },
+                "AC13E93E-0E64-41D4-9DA3-BD289CFBDEA1": {
+                    "name": "Material/Chrome OS/Navbar 1280dp"
+                },
+                "4B37146F-7C0B-4987-8AF9-557CCE0E3AFC": {
+                    "name": "Material/Dark/Radio button on"
+                },
+                "E0C4F29E-147A-44B5-94EC-3A1D4AEDBE87": {
+                    "name": "Material/Dark/Checkbox on"
+                },
+                "EC56DA8E-C18F-4752-BD64-E42D71755C81": {
+                    "name": "Material/Icons black/print"
+                },
+                "C1501289-AA67-4947-8397-8547E298A881": {
+                    "name": "Material/Icons black/content cut"
+                },
+                "6EFF340A-714C-4875-A45C-81966F97368F": {
+                    "name": "Material/Icons black/fullscreen"
+                },
+                "EE161FC4-C4AE-45B2-BFBA-D55DAF780091": {
+                    "name": "Material/Icons white/cancel"
+                },
+                "0123110B-A6B3-4971-83BC-CDBD21817517": {
+                    "name": "Material/Android/Status bar content dark"
+                },
+                "3489AF78-9375-40E2-8E39-93E0B5CD0D6B": {
+                    "name": "Material/Icons black/select all"
+                },
+                "21B63B46-4C5E-4D74-9E80-2B8CCF870C32": {
+                    "name": "Material/Icons black/check"
+                },
+                "83A808B5-8D3B-490D-B502-EDE67BEF7A57": {
+                    "name": "Material/Icons white/menu"
+                },
+                "5B1F5550-C311-4178-8648-47AB3C8D4B3E": {
+                    "name": "Material/Icons white/place"
+                },
+                "AB454422-927C-4E49-92EC-D23225CD41BA": {
+                    "name": "Material/Light/Radio button off"
+                },
+                "5E7EDE59-6098-470E-9396-FBEA6543E07D": {
+                    "name": "Material/Icons black/send"
+                },
+                "92B85AE4-9877-41DB-A786-5F1CB9F9DCB9": {
+                    "name": "Material/Icons white/select all"
+                },
+                "FF10549E-8604-4B69-A266-C47B06C7F812": {
+                    "name": "Material/Icons white/arrow forward"
+                },
+                "7B0D62FE-B17B-4960-9721-A839690854DE": {
+                    "name": "Material/Icons black/content copy"
+                },
+                "E6F71BCE-5944-46D6-9809-E3C0AF6DF523": {
+                    "name": "Material/Icons white/arrow drop up"
+                },
+                "6E8877BE-9405-4923-A804-66A8C3867842": {
+                    "name": "Material/Icons white/favorite"
+                },
+                "532D44F8-B6EC-4AA6-A077-1FDEA52C102C": {
+                    "name": "Material/Chrome OS/Title bar 1280dp black"
+                },
+                "9623C003-C5CF-4C7F-A627-1AA29F2DA070": {
+                    "name": "Material/Icons black/bookmark"
+                },
+                "0BD2C953-F37D-4970-BE02-DA4BD6E4124E": {
+                    "name": "Material/Light/Switch on"
+                },
+                "FAE251B7-801F-4660-9C18-2B39654EF4A7": {
+                    "name": "Material/Android/Navbar 600dp black"
+                },
+                "158BBC04-B9CE-4996-9F81-1BEADDEF3436": {
+                    "name": "Material/Icons white/chevron left"
+                },
+                "F5790B72-A26A-4F19-AF08-D24FE598D0CB": {
+                    "name": "Material/Icons white/apps"
+                },
+                "E88D7B1A-E174-4299-B971-B38FD678F97D": {
+                    "name": "Material/Icons black/fullscreen exit"
+                },
+                "9245C5F9-330F-4E35-813F-F5F366212A42": {
+                    "name": "Material/Icons black/cloud upload"
+                },
+                "2C7E84CD-2CD8-4ADB-88B9-0C8621AA02DE": {
+                    "name": "Material/Icons black/expand more"
+                },
+                "99FC27D0-7DC1-4E8F-A214-5EE2C6FC2E55": {
+                    "name": "Material/Icons black/search"
+                },
+                "A77C8EDC-CE62-4320-B0D6-C7CEBB022AB3": {
+                    "name": "Material/Icons white/fullscreen"
+                },
+                "B799E740-3E5B-41E9-A323-40B8344856EB": {
+                    "name": "Material/Icons black/flag"
+                },
+                "FD0A979E-421B-4386-9366-152D9EF2F610": {
+                    "name": "Material/Icons black/signal wifi 3 bar"
+                },
+                "85ACCD6B-6A89-45F6-99C1-44F8903FDF6A": {
+                    "name": "Material/Light/Checkbox on"
+                },
+                "7CAC5646-E988-467F-A592-AD8274CAFF8B": {
+                    "name": "Material/Icons black/mic"
+                },
+                "9FC75B2C-20E5-4E3B-957E-B5B9DC05E34A": {
+                    "name": "Material/Icons white/expand less"
+                },
+                "78F891C2-2FDA-49C7-9A76-E84C19941C52": {
+                    "name": "Material/Icons black/menu"
+                }
+            }
+        },
+        "62830784-6272-4A0C-AC7A-A3583BB2477F": {
+            "name": "Material Design Stickersheet",
+            "artboards": {
+                "2DAF9D12-2957-48A2-B000-D076714421F6": {
+                    "name": "Desktop"
+                },
+                "A74E8A7B-D98A-48BB-A38D-157F308A62FE": {
+                    "name": "Tablet 9inch"
+                },
+                "1A0D9705-B6DA-40D4-BDFD-D1DD152A61E3": {
+                    "name": "Tablet 9inch"
+                },
+                "CB50A620-B4F5-40EE-9C5C-709239E51A6C": {
+                    "name": "Tablet 7inch"
+                },
+                "A59E6D32-9DAD-42E2-B8C3-832B63FE99DD": {
+                    "name": "Mobile"
+                },
+                "CFDED9A0-CD1F-462A-8366-EA30581D687C": {
+                    "name": "Desktop"
+                },
+                "51EB9F5C-5EB6-46D0-85CC-A42A7186F840": {
+                    "name": "Tablet 7inch"
+                },
+                "15D23678-F1B2-4476-9CE7-1D3F989BE9CD": {
+                    "name": "Mobile"
+                }
+            }
+        }
+    },
+    "version": 112,
+    "fonts": [
+        "Roboto-Regular",
+        "Roboto-Medium",
+        "Roboto-Bold"
+    ],
+    "compatibilityVersion": 99,
+    "app": "com.bohemiancoding.sketch3",
+    "autosaved": 0,
+    "variant": "NONAPPSTORE",
+    "created": {
+        "commit": "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+        "appVersion": "52.6",
+        "build": 67491,
+        "app": "com.bohemiancoding.sketch3",
+        "compatibilityVersion": 99,
+        "version": 112,
+        "variant": "NONAPPSTORE"
+    },
+    "saveHistory": [
+        "NONAPPSTORE.67491"
+    ],
+    "appVersion": "52.6",
+    "build": 67491
+}
