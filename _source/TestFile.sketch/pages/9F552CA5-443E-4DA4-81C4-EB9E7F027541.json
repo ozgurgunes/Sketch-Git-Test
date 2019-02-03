@@ -194,6 +194,80 @@
                     "scale": 1,
                     "symbolID": "5C065BAF-8A93-4AA4-9983-89EBC9CF0ABA",
                     "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "2BC66F08-2836-4419-A98A-F8997EF65218",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "67E9F84C-18EE-45A7-84E0-4F8AC4640EC6",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "2BB87FB8-77B9-430F-895E-93F7B8857E36",
+                        "constrainProportions": false,
+                        "height": 184,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Card / Regular / Top / Giant",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "D26B81A2-CAB2-49A7-8C7A-89177978F65B",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
+                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
+                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
+                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
+                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
+                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
+                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
+                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
+                            "value": ""
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
+                    "verticalSpacing": 0
                 }
             ],
             "backgroundColor": {
@@ -231,11 +305,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "height": 568,
-                "width": 320
+                "offersLandscapeVariant": 0,
+                "width": 320,
+                "name": "Page - XSmall",
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -565,11 +639,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "height": 568,
-                "width": 320
+                "offersLandscapeVariant": 0,
+                "width": 320,
+                "name": "Page - XSmall",
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -775,11 +849,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "allowResizedMatching": 0,
-                "offersLandscapeVariant": 1,
-                "name": "Mobile",
                 "height": 360,
-                "width": 640
+                "offersLandscapeVariant": 1,
+                "width": 640,
+                "name": "Mobile",
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
