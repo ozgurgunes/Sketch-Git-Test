@@ -1,0 +1,239 @@
+{
+    "_class": "page",
+    "do_objectID": "3EEF1699-E001-44E5-939D-26BB8027FD6F",
+    "booleanOperation": 0,
+    "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+    },
+    "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 300,
+        "width": 300,
+        "x": 0,
+        "y": 0
+    },
+    "isFixedToViewport": false,
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "Thanks",
+    "nameIsFixed": true,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "clippingMaskMode": 0,
+    "hasClippingMask": false,
+    "style": {
+        "_class": "style",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+    },
+    "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout"
+    },
+    "hasClickThrough": true,
+    "layers": [
+        {
+            "_class": "artboard",
+            "do_objectID": "E2B4FB7D-7A70-423C-AA58-1D10CD5B4B1B",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 720,
+                "width": 1280,
+                "x": -531,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "- Thanks",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "3C5D24B3-2B93-4002-89B4-527FDDE79BFA",
+                    "booleanOperation": 0,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 720,
+                        "width": 1280,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "6 - Guides / Cover / 720",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "C149AE0A-46BA-4BA3-837F-1A4FB3B062EE_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "58DC0D65-9EFA-4ABF-B315-1584470AFB94_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "F1287D59-5858-4FE0-B885-EB899C86C334_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "2931DBFE-90CA-47A3-8F63-E20BB9C630A8_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "9300095C-9578-4058-A441-DD300F0D402B_stringValue",
+                            "value": "Te\u015fekk\u00fcrler"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "5D0815C3-B32E-4DB6-809C-71E490FF206D",
+                            "overrideName": "A70BBBB3-9375-433C-8339-3400CEFC4C8B_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FF50BAA1-13A0-4D92-9275-298BE70ADCF9",
+                            "overrideName": "411AB72C-3125-4DF2-B19E-058997886315_stringValue",
+                            "value": "Te\u015fekk\u00fcrler"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "94759907-5FE2-45B4-9C95-2647CC51D53D",
+                            "overrideName": "9DB574C2-C6AE-4C58-BAC9-50637157CF9A_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "B5C8491D-1B72-4179-89BC-44B9295317DD",
+                            "overrideName": "9D151691-73AE-473D-B14F-BAD4EC691EE2_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8C58B1F3-6804-4BA4-9CF8-227D62677D00",
+                            "overrideName": "D1616AB6-8C5B-4015-8BBA-AB214BF85DE8_stringValue",
+                            "value": " "
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "FDFB5727-2E72-4435-A819-D68B1F7C0999",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            }
+        }
+    ],
+    "horizontalRulerData": {
+        "_class": "rulerData",
+        "base": -531,
+        "guides": []
+    },
+    "includeInCloudUpload": true,
+    "verticalRulerData": {
+        "_class": "rulerData",
+        "base": -354,
+        "guides": []
+    }
+}

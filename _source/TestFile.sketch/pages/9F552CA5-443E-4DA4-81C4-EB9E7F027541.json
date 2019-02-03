@@ -1,0 +1,803 @@
+{
+    "_class": "page",
+    "do_objectID": "9F552CA5-443E-4DA4-81C4-EB9E7F027541",
+    "booleanOperation": 0,
+    "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+    },
+    "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 300,
+        "width": 300,
+        "x": 0,
+        "y": 0
+    },
+    "isFixedToViewport": false,
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "Mobile",
+    "nameIsFixed": true,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "clippingMaskMode": 0,
+    "hasClippingMask": false,
+    "style": {
+        "_class": "style",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+    },
+    "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout"
+    },
+    "hasClickThrough": true,
+    "layers": [
+        {
+            "_class": "artboard",
+            "do_objectID": "C4E656B5-6C9E-4753-8460-B1972AD61CDE",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "F1B3D67E-B67E-43E1-A6BF-7B3FE20DB06E",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "F6AD076E-0823-4320-AF7B-7FCA8C349438",
+                "constrainProportions": false,
+                "height": 568,
+                "width": 320,
+                "x": 529,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "iPhone SE Copy",
+            "nameIsFixed": false,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "C30560F6-EC4B-4007-8049-3BBB5884C31E",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout",
+                "do_objectID": "4A9EC893-48BB-45DB-BE19-ED1A7B3667AA"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "1FFA8B8E-AA1E-45CC-BA69-0A79689AAD36",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "372F8C4C-67F7-41BE-B2B3-A39C98C14D70",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "F5C3EE37-C590-46B4-BE9D-7940CDECCA47",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "0F559B8C-8A8E-4E19-A2D8-84A217217B9A",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "C4E3F153-B392-4448-9787-A6327D2BB383",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "7247E6BE-D4BC-44D1-8D1B-204DB2AFAD48",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "96824947-48F3-484E-ACEF-12790A761F75",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "22318794-AE87-4EDD-83DC-DEACA40125C7",
+                        "constrainProportions": false,
+                        "height": 48,
+                        "width": 320,
+                        "x": 0,
+                        "y": 520
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Default - 4 tems",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "7985B4F8-076D-463F-82E6-799D62593BA1",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "5C065BAF-8A93-4AA4-9983-89EBC9CF0ABA",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "814C8D72-92A8-4D72-BAEC-E8875FF8F536",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "0629AE73-519E-429C-ACD0-C8EC68AE8D70",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "FF6532EF-298B-4758-8160-420817061569",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "allowResizedMatching": 0,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "width": 320
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "B79A5CEC-B9CB-4F6D-979A-2CB6F7B5434B",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "A85F0D4B-264A-4B0A-91C1-BC0DF7272C8F",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 568,
+                "width": 320,
+                "x": 159,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "iPhone SE",
+            "nameIsFixed": false,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "854DF751-2B77-4A3D-A263-2237247AFB39",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "C4E3F153-B392-4448-9787-A6327D2BB383",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "D4978D92-679D-4275-9276-A2ED76F9E4D4",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 48,
+                        "width": 320,
+                        "x": 0,
+                        "y": 520
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / Nav Bar / Default - 4 tems",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "5C065BAF-8A93-4AA4-9983-89EBC9CF0ABA",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "6D852CF0-E672-4B20-A5A5-5BB5ECEB5D04",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 184,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Card / Regular / Top / Giant",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
+                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
+                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
+                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
+                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
+                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
+                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
+                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
+                            "value": ""
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "A819BD10-AF14-4664-B5F3-51878A80A3F3",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "8514B233-A7DA-4BAA-8D6E-2E6ACABA0ECE",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "904C5BD0-D2EA-4835-94B5-3BEE9EE42A36",
+                        "constrainProportions": false,
+                        "height": 114,
+                        "width": 173,
+                        "x": 21,
+                        "y": 269
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Card / Regular / Top / Giant Copy",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "A56B02B5-AA5A-44A8-8123-898C75ECB3ED",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
+                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
+                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
+                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
+                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
+                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
+                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
+                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
+                            "value": ""
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "allowResizedMatching": 0,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "width": 320
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "39E2D22D-4F33-4141-8A17-D6E70DAB4E91",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 360,
+                "width": 640,
+                "x": -531,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "- Mobile",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "761854DE-282E-4149-8C21-666575671AFF",
+                    "booleanOperation": 0,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 360,
+                        "width": 640,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "6 - Guides / Cover / 360",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "F26492C8-0551-488D-AADD-C934CC373E7A_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "C3444EF6-75F2-4E8D-BC1C-44A53F465FF4_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "41286274-B634-4FE7-A960-03861ED662C4_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "CFB408C9-8EFA-4747-916A-8ED55747A8D5_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "86FFBE01-E03E-495D-B6B9-E8B7DB83C044_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "C94110E3-C302-4D5C-921B-A63F984E9EE2_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "ED4B4501-A8D2-412E-8F88-75AB5EA6FDB8_stringValue",
+                            "value": "Mobile"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "6C23EEDD-735E-4C49-8F7D-B3EA6779C452",
+                            "overrideName": "1C4FA0FB-893A-4D5E-9903-D1D12230009D_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4A566FCB-190B-4CA9-AEA9-8C5350FF22BA",
+                            "overrideName": "7E1C9865-9ED5-4640-B7C3-1423F22D744A_stringValue",
+                            "value": "Mobile"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "D85EDE64-48F1-41CA-BA06-65E76BC4425A",
+                            "overrideName": "F5BB0411-096A-41A0-89EA-8F100AEC0630_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CF19B886-58F6-48AA-B7BE-008C083BEF55",
+                            "overrideName": "7E28DFBF-EA2F-4E7D-B029-6A14F580D800_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "46C3A568-A19C-420A-9D85-112B2D3611DE",
+                            "overrideName": "859C4D80-E095-4CF9-8287-3EA9B2D818FC_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "51340966-8131-49A2-89D1-BDA40CD5AD42",
+                            "overrideName": "4787389A-9117-40DD-94E4-5571CAFE249D_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "D2A0783D-4EDF-46FC-A1C8-D179B19E4C4E",
+                            "overrideName": "A320B3EE-B680-4692-AF00-E5829AB696B1_symbolID",
+                            "value": ""
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "DC784934-8463-4E87-870F-F412E1D4A97B",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "presetDictionary": {
+                "allowResizedMatching": 0,
+                "offersLandscapeVariant": 1,
+                "name": "Mobile",
+                "height": 360,
+                "width": 640
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            }
+        }
+    ],
+    "horizontalRulerData": {
+        "_class": "rulerData",
+        "base": -531,
+        "guides": []
+    },
+    "includeInCloudUpload": true,
+    "verticalRulerData": {
+        "_class": "rulerData",
+        "base": -354,
+        "guides": []
+    }
+}
