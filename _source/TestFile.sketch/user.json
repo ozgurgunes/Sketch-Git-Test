@@ -12,7 +12,7 @@
         "zoomValue": 1
     },
     "C4CDFE21-99A2-431B-9BCF-92DDEC8FC055": {
-        "scrollOrigin": "{-160, 1071}",
+        "scrollOrigin": "{-134, 1097}",
         "zoomValue": 1
     },
     "DC3E995E-7E30-45DB-A5C8-BAA6CDE3BAEA": {
@@ -20,7 +20,7 @@
         "zoomValue": 1
     },
     "8744DABC-6F96-42C2-A26A-16599BE34162": {
-        "scrollOrigin": "{484, 697}",
+        "scrollOrigin": "{630, 697}",
         "zoomValue": 0.618380062305296
     },
     "9C616C87-D507-47B9-9721-1829D43278EA": {
@@ -30,6 +30,10 @@
     "9F552CA5-443E-4DA4-81C4-EB9E7F027541": {
         "scrollOrigin": "{-674, 420}",
         "zoomValue": 1
+    },
+    "83AD06EB-3BD9-45A6-A79C-ADD49C39DACE": {
+        "scrollOrigin": "{267, 260}",
+        "zoomValue": 0.25
     },
     "E5119F10-8AF5-4166-9810-206530D7A5D2": {
         "scrollOrigin": "{481, 291}",
@@ -42,10 +46,6 @@
     "B11A4971-D0A8-4F5E-A4E9-3545111FCCC3": {
         "scrollOrigin": "{-1414, 450}",
         "zoomValue": 1
-    },
-    "83AD06EB-3BD9-45A6-A79C-ADD49C39DACE": {
-        "scrollOrigin": "{267, 260}",
-        "zoomValue": 0.25
     },
     "EAB68448-13A7-4BE2-8749-BD02A58D4560": {
         "scrollOrigin": "{530, 353}",

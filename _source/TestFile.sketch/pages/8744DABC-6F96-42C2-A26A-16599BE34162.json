@@ -50,308 +50,6 @@
     "layers": [
         {
             "_class": "artboard",
-            "do_objectID": "A976984A-C909-404C-A223-04DAE36E336A",
-            "booleanOperation": 0,
-            "exportOptions": {
-                "_class": "exportOptions",
-                "do_objectID": "C2C1CEDB-8A4D-4BFC-B72C-C2378E683923",
-                "exportFormats": [],
-                "includedLayerIds": [],
-                "layerOptions": 0,
-                "shouldTrim": false
-            },
-            "frame": {
-                "_class": "rect",
-                "do_objectID": "32E0F6AE-5780-4618-AC55-07DA6C2DACCE",
-                "constrainProportions": false,
-                "height": 768,
-                "width": 320,
-                "x": 2270,
-                "y": -686
-            },
-            "isFixedToViewport": false,
-            "isFlippedHorizontal": false,
-            "isFlippedVertical": false,
-            "isLocked": false,
-            "isVisible": true,
-            "layerListExpandedType": 2,
-            "name": "Baskasinin Hesabina - 02 ALT",
-            "nameIsFixed": true,
-            "resizingConstraint": 63,
-            "resizingType": 0,
-            "rotation": 0,
-            "shouldBreakMaskChain": true,
-            "userInfo": {
-                "com.animaapp.stc-sketch-plugin": {
-                    "kModelPropertiesKey": {}
-                }
-            },
-            "clippingMaskMode": 0,
-            "hasClippingMask": false,
-            "style": {
-                "_class": "style",
-                "do_objectID": "BF64C3FB-4BC9-4628-A483-F9F8BACEE607",
-                "endMarkerType": 0,
-                "miterLimit": 10,
-                "startMarkerType": 0,
-                "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
-            "hasClickThrough": true,
-            "layers": [
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "6A122417-8491-4533-B5EB-324C9913E980",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "do_objectID": "802C82B0-41D7-44B3-8C29-459181756700",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "do_objectID": "D65074A8-9742-4340-BC13-82A9CA551C22",
-                        "constrainProportions": false,
-                        "height": 64,
-                        "width": 320,
-                        "x": 0,
-                        "y": 0
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 10,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "userInfo": {
-                        "com.animaapp.stc-sketch-plugin": {
-                            "kModelPropertiesKey": {}
-                        }
-                    },
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "5128A3D0-E714-4D2F-8642-1B1739B5A99A",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "FB18068D-3CEF-4FC5-B721-6F235FDAE3D2",
-                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
-                            "value": "Transfer Onay\u0131"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "04C56B3A-F785-4BF3-A6C9-D8C62F45C204",
-                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
-                            "value": ""
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "5CED8FF2-EE5C-48CC-AD5F-54621046FCA3",
-                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
-                            "value": "24F5FBE2-CD45-4FA4-9A5B-72656C3D4DCB"
-                        }
-                    ],
-                    "scale": 1,
-                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "95247048-400F-45B6-AA1E-4E4045BBB508",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "constrainProportions": false,
-                        "height": 640,
-                        "width": 320,
-                        "x": 0,
-                        "y": 64
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 02 ALT",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 10,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [],
-                    "scale": 1,
-                    "symbolID": "0A49B636-9DE3-4572-8293-7D6064B956A3",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "D5CAB8CA-2E4E-42E1-9B02-85DAB95C9FE0",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "do_objectID": "22C3E55A-E2A0-4A40-89D8-E41A9057FACD",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "do_objectID": "125A4A39-A295-43C7-AACB-83AF9E5DA282",
-                        "constrainProportions": false,
-                        "height": 64,
-                        "width": 320,
-                        "x": 0,
-                        "y": 704
-                    },
-                    "isFixedToViewport": true,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "2 - Controls / Panel / Default / Cell / Button",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 34,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "9B835986-AC0F-492A-8DCE-5EDE9612CE21",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "48269572-8537-48BE-BB9B-EBC98640BD84",
-                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2_symbolID",
-                            "value": "C9189FCB-34E3-4325-83EC-EFC7864EB077"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "7A87647D-1D4E-4E25-A450-9AE1D97E7B0C",
-                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07_symbolID",
-                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "2884AD14-0D8A-464E-BFE8-93936C1B28F1",
-                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/79716FC6-009F-454E-A68B-600D3F28FC28_symbolID",
-                            "value": "8B3F3500-42D5-4861-8FC1-973C5CDC28D6"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "4F595F7D-6BCA-4378-97FD-5DB4F73185FF",
-                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/79716FC6-009F-454E-A68B-600D3F28FC28/F9AAF545-A9D0-4A46-BB04-1CBA5D64C93A_layerStyle",
-                            "value": "7197159A-DD91-49E6-BABA-05296979BF58"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "8F86984E-D376-4266-BD60-B08A178EC313",
-                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2/CF925C8B-F139-4345-8470-676A67F8F241/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
-                            "value": "Onayla"
-                        }
-                    ],
-                    "scale": 1,
-                    "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
-                    "verticalSpacing": 0
-                }
-            ],
-            "backgroundColor": {
-                "_class": "color",
-                "do_objectID": "E1EDE16A-C3B9-41E4-8684-74F5855886A9",
-                "alpha": 1,
-                "blue": 1,
-                "green": 1,
-                "red": 1
-            },
-            "hasBackgroundColor": true,
-            "horizontalRulerData": {
-                "_class": "rulerData",
-                "do_objectID": "C9887B99-2AC7-47F7-B6A7-6B9051980608",
-                "base": 0,
-                "guides": []
-            },
-            "includeBackgroundColorInExport": true,
-            "includeInCloudUpload": true,
-            "isFlowHome": false,
-            "layout": {
-                "_class": "layoutGrid",
-                "do_objectID": "1158E423-C378-479A-AD11-6D2565B1B118",
-                "isEnabled": false,
-                "columnWidth": 13,
-                "drawHorizontal": false,
-                "drawHorizontalLines": false,
-                "drawVertical": true,
-                "gutterHeight": 12,
-                "gutterWidth": 12,
-                "guttersOutside": false,
-                "horizontalOffset": 16,
-                "numberOfColumns": 12,
-                "rowHeightMultiplication": 5,
-                "totalWidth": 288
-            },
-            "presetDictionary": {
-                "allowResizedMatching": 0,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
-            },
-            "resizesContent": true,
-            "verticalRulerData": {
-                "_class": "rulerData",
-                "do_objectID": "A2B91DBA-6F2D-4918-9BB6-D6A2355EC877",
-                "base": 0,
-                "guides": []
-            }
-        },
-        {
-            "_class": "artboard",
             "do_objectID": "2B2C036D-52DA-4322-B6B4-4853E6BF98C7",
             "booleanOperation": 0,
             "exportOptions": {
@@ -571,11 +269,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -955,11 +653,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1231,11 +929,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1428,46 +1126,9 @@
                         "windingRule": 1
                     },
                     "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "5EAF0F3D-44C3-4576-8D5C-35D53363FB2A",
-                            "overrideName": "BC022112-C9E9-4C39-B633-223BCA845C0D_symbolID",
-                            "value": ""
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "218FDB26-A345-45F9-8E75-8A1812B0B677",
-                            "overrideName": "AD2865BE-02DA-4052-9D5B-249825485E51_symbolID",
-                            "value": ""
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "45EF052E-CB95-437C-AFAD-F4893A9BD8EC",
-                            "overrideName": "012999F6-48E5-4EF3-AF49-C6B2F27058DC_symbolID",
-                            "value": "92A9800E-BA3B-491C-BAF7-F0BF7E9CA106"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "03008AB2-4793-4504-82FC-9AB8AA4F5DA5",
-                            "overrideName": "AA1B7DA5-4990-4F23-9EDB-6FF5102BD737_symbolID",
-                            "value": ""
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "B3B78F05-7FB2-48FB-9AB1-B50F7056B825",
-                            "overrideName": "79AB3CF6-D715-4887-80D1-F95A6381EA70_symbolID",
-                            "value": ""
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "A4AA8F54-B739-45AE-A5E8-4D12A4331DA2",
-                            "overrideName": "5C866F43-82C1-4DC0-88E7-9EF6AD97F1EC_symbolID",
-                            "value": ""
-                        }
-                    ],
+                    "overrideValues": [],
                     "scale": 1,
-                    "symbolID": "99C12545-2DD0-4108-8E8F-5FBCB9DCADDA",
+                    "symbolID": "CF15F4B6-66F8-498A-A190-E2EEEE5953C8",
                     "verticalSpacing": 0
                 },
                 {
@@ -1545,11 +1206,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -2098,11 +1759,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -2635,11 +2296,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -2854,11 +2515,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 640,
                 "offersLandscapeVariant": 1,
                 "name": "Mobile",
-                "width": 640,
-                "height": 360
+                "height": 360,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
