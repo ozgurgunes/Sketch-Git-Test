@@ -44,9 +44,6 @@
         "startMarkerType": 0,
         "windingRule": 1
     },
-    "groupLayout": {
-        "_class": "MSImmutableFreeformGroupLayout"
-    },
     "hasClickThrough": true,
     "layers": [
         {
@@ -96,9 +93,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -245,9 +239,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -553,9 +544,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -854,9 +842,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -1002,9 +987,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -1310,9 +1292,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -1611,9 +1590,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -1759,9 +1735,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -2067,9 +2040,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -2367,9 +2337,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -2675,9 +2642,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -2976,9 +2940,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -3194,9 +3155,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -3496,9 +3454,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -3797,9 +3752,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -3945,9 +3897,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -4247,9 +4196,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -4468,9 +4414,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -4770,9 +4713,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -5071,9 +5011,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -5292,9 +5229,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -5601,9 +5535,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -5822,9 +5753,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -6123,9 +6051,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [

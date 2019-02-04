@@ -23,7 +23,7 @@
     "isLocked": false,
     "isVisible": true,
     "layerListExpandedType": 0,
-    "name": "Hesaplarim",
+    "name": "Hesaplar",
     "nameIsFixed": true,
     "resizingConstraint": 63,
     "resizingType": 0,
@@ -43,9 +43,6 @@
         "miterLimit": 10,
         "startMarkerType": 0,
         "windingRule": 1
-    },
-    "groupLayout": {
-        "_class": "MSImmutableFreeformGroupLayout"
     },
     "hasClickThrough": true,
     "layers": [
@@ -96,9 +93,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -404,9 +398,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -625,9 +616,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -939,9 +927,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -1246,9 +1231,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -1550,9 +1532,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -1750,7 +1729,7 @@
             "frame": {
                 "_class": "rect",
                 "constrainProportions": false,
-                "height": 584,
+                "height": 736,
                 "width": 320,
                 "x": 209,
                 "y": -354
@@ -1780,9 +1759,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -1870,10 +1846,10 @@
                     "frame": {
                         "_class": "rect",
                         "constrainProportions": false,
-                        "height": 519,
+                        "height": 671.219512195122,
                         "width": 320,
                         "x": 0,
-                        "y": 64.78048780487802
+                        "y": 64.78048780487805
                     },
                     "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
@@ -1883,7 +1859,7 @@
                     "layerListExpandedType": 0,
                     "name": "4 - Views / Hesaplarim / Hesaplarim",
                     "nameIsFixed": false,
-                    "resizingConstraint": 18,
+                    "resizingConstraint": 10,
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
@@ -1973,7 +1949,7 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "name": "- Chapter: Hesaplarim",
+            "name": "- Chapter: Hesaplar",
             "nameIsFixed": true,
             "resizingConstraint": 63,
             "resizingType": 0,
@@ -1992,9 +1968,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
@@ -2078,7 +2051,7 @@
                         {
                             "_class": "overrideValue",
                             "overrideName": "ED4B4501-A8D2-412E-8F88-75AB5EA6FDB8_stringValue",
-                            "value": "Hesaplar\u0131m"
+                            "value": "Hesaplar"
                         },
                         {
                             "_class": "overrideValue",
