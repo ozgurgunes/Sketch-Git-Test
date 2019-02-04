@@ -342,11 +342,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "width": 320,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -564,11 +564,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "width": 320,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -877,11 +877,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "width": 320,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1184,11 +1184,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "width": 320,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1488,11 +1488,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "width": 320,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1722,11 +1722,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "width": 320,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1935,11 +1935,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "width": 320,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -2145,11 +2145,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 360,
-                "offersLandscapeVariant": 1,
-                "name": "Mobile",
                 "width": 640,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 1,
+                "height": 360,
+                "allowResizedMatching": 0,
+                "name": "Mobile"
             },
             "resizesContent": true,
             "verticalRulerData": {

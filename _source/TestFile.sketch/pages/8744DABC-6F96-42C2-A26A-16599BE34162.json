@@ -66,7 +66,7 @@
                 "constrainProportions": false,
                 "height": 768,
                 "width": 320,
-                "x": 1850,
+                "x": 2270,
                 "y": -686
             },
             "isFixedToViewport": false,
@@ -336,11 +336,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "height": 568,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "height": 568
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -368,7 +368,7 @@
                 "constrainProportions": false,
                 "height": 888,
                 "width": 320,
-                "x": 1430,
+                "x": 1850,
                 "y": -686
             },
             "isFixedToViewport": false,
@@ -571,11 +571,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "height": 568,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "height": 568
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -603,7 +603,7 @@
                 "constrainProportions": false,
                 "height": 712,
                 "width": 320,
-                "x": 1010,
+                "x": 1430,
                 "y": -686
             },
             "isFixedToViewport": false,
@@ -842,6 +842,82 @@
                     "scale": 1,
                     "symbolID": "559A7DD2-D41D-4396-A1FF-1EA88821C454",
                     "verticalSpacing": 0
+                },
+                {
+                    "_class": "MSImmutableHotspotLayer",
+                    "do_objectID": "4D33B0D7-4AC8-42C0-B259-79F20DEEA864",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "12AD671E-8826-46DB-8F83-2B66CF057AE2",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "flow": {
+                        "_class": "MSImmutableFlowConnection",
+                        "animationType": 0,
+                        "destinationArtboardID": "2B2C036D-52DA-4322-B6B4-4853E6BF98C7"
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "0EB1164C-9CF8-4F39-BAD8-333DA27DFCE2",
+                        "constrainProportions": false,
+                        "height": 40,
+                        "width": 288,
+                        "x": 16,
+                        "y": 612
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Alici Sec",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false
+                },
+                {
+                    "_class": "MSImmutableHotspotLayer",
+                    "do_objectID": "994955D7-D160-44E4-B716-76E2F16D8369",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "flow": {
+                        "_class": "MSImmutableFlowConnection",
+                        "animationType": 1,
+                        "destinationArtboardID": "33D29264-B90A-4C53-BA8C-C77638DB764E"
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 40,
+                        "width": 288,
+                        "x": 16,
+                        "y": 660
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Alici Sec Copy",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false
                 }
             ],
             "backgroundColor": {
@@ -879,11 +955,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "height": 568,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "height": 568
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -911,7 +987,7 @@
                 "constrainProportions": false,
                 "height": 568,
                 "width": 320,
-                "x": 590,
+                "x": 1010,
                 "y": -686
             },
             "isFixedToViewport": false,
@@ -920,7 +996,7 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "name": "Kayitli Islemler - 01",
+            "name": "Kayitli Islemler - 01 - D",
             "nameIsFixed": true,
             "resizingConstraint": 63,
             "resizingType": 0,
@@ -1019,6 +1095,12 @@
                             "do_objectID": "8AB52F41-2675-44E6-BA98-811B70320F29",
                             "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
                             "value": "Al\u0131c\u0131 Bilgilerini Se\u00e7"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "B916B7B4-29A3-4442-BA17-C88883CB41D6",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/D7513F2E-E7F0-4CE3-941B-55F09D98A431_flowDestination",
+                            "value": "back"
                         }
                     ],
                     "scale": 1,
@@ -1073,6 +1155,45 @@
                     "scale": 1,
                     "symbolID": "5B95B8BD-491D-43D0-872A-A035ABEA94D8",
                     "verticalSpacing": 0
+                },
+                {
+                    "_class": "MSImmutableHotspotLayer",
+                    "do_objectID": "71CD022B-DF78-4940-B997-159FABB1E977",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "B48A9A27-5A0C-407F-92E3-A03EA35570A8",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "flow": {
+                        "_class": "MSImmutableFlowConnection",
+                        "animationType": 0,
+                        "destinationArtboardID": "back"
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "BED029F4-71C3-40E5-872F-2EA4E54B99CE",
+                        "constrainProportions": false,
+                        "height": 96,
+                        "width": 320,
+                        "x": 0,
+                        "y": 104
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Alici Sec",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false
                 }
             ],
             "backgroundColor": {
@@ -1110,16 +1231,330 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "height": 568,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "height": 568
             },
             "resizesContent": true,
             "verticalRulerData": {
                 "_class": "rulerData",
                 "do_objectID": "790D1A39-3D78-4F66-A31B-860C3EEC6E71",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "A63B346D-17F5-4BF7-91F8-0C88707CC4C4",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "CFF03A1D-D3DC-4560-81CF-474A8A397FA9",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "F5AAE29B-F9B2-4C9D-8290-352C5AD9EE59",
+                "constrainProportions": false,
+                "height": 568,
+                "width": 320,
+                "x": 590,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Kayitli Islemler - 01 - C",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "11A6D3A6-454F-462A-8706-A29F9EDE23D9",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout",
+                "do_objectID": "7C9703C1-FE61-4891-A95C-7E9E13B7FE35"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "D478819D-42E9-4426-80B2-1109AB175649",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "9D6E5538-D07E-4150-B3F4-5125CD26F76B",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "C0B371B1-FDD5-4811-84DB-CED9E6354C77",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "66F1B41C-BF64-4ACF-8B9D-521F606933C3",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8D417729-09AB-4197-932B-C83B95D85672",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "0879A88A-C546-419D-8DD7-142348EA8B45",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": "6A13D8AA-96A6-4B99-9255-59F76043B33B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "3AD85E08-D381-4BC8-B29F-A28619AE84E9",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050_symbolID",
+                            "value": "A455CC97-EB91-4199-8140-EB7842252AEA"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8AB52F41-2675-44E6-BA98-811B70320F29",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Paran\u0131n Al\u0131naca\u011f\u0131 Hesap"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "B916B7B4-29A3-4442-BA17-C88883CB41D6",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/D7513F2E-E7F0-4CE3-941B-55F09D98A431_flowDestination",
+                            "value": "back"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "C0AB9C62-7243-4570-958D-E4DF66A35DF8",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "9634FE5A-DA92-4CCB-836A-9C9C938115E7",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "71C2C5E4-DF80-4FE1-9C3D-5FCE1A184171",
+                        "constrainProportions": false,
+                        "height": 344,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 02",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "85680630-AABD-4E37-A0F0-605E2F487627",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "5EAF0F3D-44C3-4576-8D5C-35D53363FB2A",
+                            "overrideName": "BC022112-C9E9-4C39-B633-223BCA845C0D_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "218FDB26-A345-45F9-8E75-8A1812B0B677",
+                            "overrideName": "AD2865BE-02DA-4052-9D5B-249825485E51_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "45EF052E-CB95-437C-AFAD-F4893A9BD8EC",
+                            "overrideName": "012999F6-48E5-4EF3-AF49-C6B2F27058DC_symbolID",
+                            "value": "92A9800E-BA3B-491C-BAF7-F0BF7E9CA106"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "03008AB2-4793-4504-82FC-9AB8AA4F5DA5",
+                            "overrideName": "AA1B7DA5-4990-4F23-9EDB-6FF5102BD737_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "B3B78F05-7FB2-48FB-9AB1-B50F7056B825",
+                            "overrideName": "79AB3CF6-D715-4887-80D1-F95A6381EA70_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "A4AA8F54-B739-45AE-A5E8-4D12A4331DA2",
+                            "overrideName": "5C866F43-82C1-4DC0-88E7-9EF6AD97F1EC_symbolID",
+                            "value": ""
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "99C12545-2DD0-4108-8E8F-5FBCB9DCADDA",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "MSImmutableHotspotLayer",
+                    "do_objectID": "3E0C13C7-5152-4F93-9DFE-388A29DDA5D3",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "A3DF6D9F-2CE4-4DC7-B21E-1CDC2F5A027A",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "flow": {
+                        "_class": "MSImmutableFlowConnection",
+                        "animationType": 0,
+                        "destinationArtboardID": "back"
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "22708D9C-9C31-491D-B3E0-F9D7F9F4098B",
+                        "constrainProportions": false,
+                        "height": 80,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Alici Sec",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "04C6EEF9-6CD8-4E33-BB2D-C3C2DBEB296B",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "01C2A3D3-5E1E-40ED-BD47-059AF7331931",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "72D4F44C-FADE-43D9-ADCC-BE6746E0BCF6",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "allowResizedMatching": 0,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "height": 568
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "7773A42A-2C59-4DF9-98D1-FAD8C5DFC74B",
                 "base": 0,
                 "guides": []
             }
@@ -1375,6 +1810,257 @@
                     "scale": 1,
                     "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
                     "verticalSpacing": 0
+                },
+                {
+                    "_class": "group",
+                    "do_objectID": "0049F7FC-8852-4BF7-936A-0919B2480611",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "843F4EEE-84E1-4E0C-BB5F-D69DEA59E317",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "8318AB01-6DC3-4025-BE81-E39EBBDE31D1",
+                        "constrainProportions": false,
+                        "height": 216,
+                        "width": 320,
+                        "x": 0,
+                        "y": 112
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Group",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "0134E2CE-1856-4E35-BE63-E259CFC6BAA1",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "groupLayout": {
+                        "_class": "MSImmutableFreeformGroupLayout",
+                        "do_objectID": "167EE8E9-447A-4AE2-9D95-E321D64DBBCD"
+                    },
+                    "hasClickThrough": false,
+                    "layers": [
+                        {
+                            "_class": "MSImmutableHotspotLayer",
+                            "do_objectID": "EFC923ED-739B-46A7-9066-6385F74F248E",
+                            "booleanOperation": -1,
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "do_objectID": "02A13955-D9A8-4DF4-B40D-0C0CF6268861",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "do_objectID": "CB538D9D-E427-453E-BE33-7F6C0E0E0DB7",
+                                "animationType": -1,
+                                "destinationArtboardID": "A61D5159-A04D-4D7C-8F70-B274A16AB1D2"
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "do_objectID": "EC19244C-BBEB-4BA4-AFBD-336D4BFE4B0B",
+                                "constrainProportions": false,
+                                "height": 40,
+                                "width": 160,
+                                "x": 160,
+                                "y": 176
+                            },
+                            "isFixedToViewport": false,
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "IBAN",
+                            "nameIsFixed": true,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false
+                        },
+                        {
+                            "_class": "MSImmutableHotspotLayer",
+                            "do_objectID": "A2BE2F45-1FA1-485F-A89D-63A02C111434",
+                            "booleanOperation": -1,
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "do_objectID": "568A29F0-AE00-48BE-97B7-A3410059DF18",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "do_objectID": "1B924E17-E7CF-47D8-8A5A-B51094839123",
+                                "animationType": 2,
+                                "destinationArtboardID": "46371919-93F1-4684-86F9-E89F98ABF91C"
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "do_objectID": "16AA44EA-133A-46A0-95DC-DCAD08BAAB02",
+                                "constrainProportions": false,
+                                "height": 32,
+                                "width": 160,
+                                "x": 160,
+                                "y": 144
+                            },
+                            "isFixedToViewport": false,
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "Alici Sec",
+                            "nameIsFixed": true,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false
+                        },
+                        {
+                            "_class": "MSImmutableHotspotLayer",
+                            "do_objectID": "3E4B461A-1C02-4DF1-AC25-4112BFA64FDC",
+                            "booleanOperation": -1,
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "do_objectID": "23F16ABE-2954-4F7E-AD97-53A96344BCEE",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "do_objectID": "8C0E4F54-20B4-4551-8121-0C19ABF397D7",
+                                "animationType": 2,
+                                "destinationArtboardID": "A63B346D-17F5-4BF7-91F8-0C88707CC4C4"
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "do_objectID": "138685AC-8683-4F33-8FB4-6BD7D57E2ED4",
+                                "constrainProportions": false,
+                                "height": 80,
+                                "width": 320,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "isFixedToViewport": false,
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "Alici Sec",
+                            "nameIsFixed": true,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false
+                        },
+                        {
+                            "_class": "MSImmutableHotspotLayer",
+                            "do_objectID": "3255D280-8712-426C-A1FE-984C2E9161BA",
+                            "booleanOperation": -1,
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "do_objectID": "FA65653B-7D58-47C3-BF56-EE341540FE50",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "do_objectID": "B5A92C1F-9F6F-40A1-AFB2-125072A5D35A",
+                                "animationType": -1,
+                                "destinationArtboardID": "33D29264-B90A-4C53-BA8C-C77638DB764E"
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "do_objectID": "ACAC6C0B-E139-4D5C-B88C-454991C7B72F",
+                                "constrainProportions": false,
+                                "height": 40,
+                                "width": 160,
+                                "x": 0,
+                                "y": 176
+                            },
+                            "isFixedToViewport": false,
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "Hesap No.",
+                            "nameIsFixed": true,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false
+                        }
+                    ]
+                },
+                {
+                    "_class": "MSImmutableHotspotLayer",
+                    "do_objectID": "E6F9B3EC-26D7-4030-BE22-F450CE48456A",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "1DF77C0A-1973-49A8-AB2D-D2906DA5A8A0",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "flow": {
+                        "_class": "MSImmutableFlowConnection",
+                        "do_objectID": "8C0F1DC4-17B3-401D-BD9A-922BA0E0F41D",
+                        "animationType": 0,
+                        "destinationArtboardID": "300F6A50-83EB-4169-99E0-A64D0DF1D845"
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "4541329F-C309-4501-863D-5CF00BEE045F",
+                        "constrainProportions": false,
+                        "height": 40,
+                        "width": 288,
+                        "x": 16,
+                        "y": 1284
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Alici Sec",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false
                 }
             ],
             "backgroundColor": {
@@ -1412,11 +2098,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "height": 568,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "height": 568
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1674,6 +2360,244 @@
                     "scale": 1,
                     "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
                     "verticalSpacing": 0
+                },
+                {
+                    "_class": "MSImmutableHotspotLayer",
+                    "do_objectID": "FBC59E37-B174-4FDC-AF15-33033F69BBDF",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "54323E70-D8D0-4329-B374-23CC2B130143",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "flow": {
+                        "_class": "MSImmutableFlowConnection",
+                        "animationType": 0,
+                        "destinationArtboardID": "300F6A50-83EB-4169-99E0-A64D0DF1D845"
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "4AB686EF-8148-403D-885E-E794A01EFE90",
+                        "constrainProportions": false,
+                        "height": 40,
+                        "width": 288,
+                        "x": 16,
+                        "y": 1612
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Alici Sec",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false
+                },
+                {
+                    "_class": "group",
+                    "do_objectID": "E8753015-61C1-4F2C-876D-014737EACB12",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 216,
+                        "width": 320,
+                        "x": 0,
+                        "y": 112
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "Group",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "groupLayout": {
+                        "_class": "MSImmutableFreeformGroupLayout"
+                    },
+                    "hasClickThrough": false,
+                    "layers": [
+                        {
+                            "_class": "MSImmutableHotspotLayer",
+                            "do_objectID": "48B698E7-0B6A-4656-83FF-DB9B587A575B",
+                            "booleanOperation": -1,
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "do_objectID": "9F018008-EDFC-4FB3-AA4B-B15FDBE4D058",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "animationType": -1,
+                                "destinationArtboardID": "A61D5159-A04D-4D7C-8F70-B274A16AB1D2"
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "do_objectID": "C220F69D-FA31-4E55-BE09-8F7735ABDB21",
+                                "constrainProportions": false,
+                                "height": 40,
+                                "width": 160,
+                                "x": 160,
+                                "y": 176
+                            },
+                            "isFixedToViewport": false,
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "IBAN",
+                            "nameIsFixed": true,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false
+                        },
+                        {
+                            "_class": "MSImmutableHotspotLayer",
+                            "do_objectID": "13321BC3-563B-4A12-81AD-333183A7B659",
+                            "booleanOperation": -1,
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "animationType": -1,
+                                "destinationArtboardID": "33D29264-B90A-4C53-BA8C-C77638DB764E"
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 40,
+                                "width": 160,
+                                "x": 0,
+                                "y": 176
+                            },
+                            "isFixedToViewport": false,
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "Hesap No.",
+                            "nameIsFixed": true,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false
+                        },
+                        {
+                            "_class": "MSImmutableHotspotLayer",
+                            "do_objectID": "303F25B3-0A1A-46B1-9BB5-7C25E106C955",
+                            "booleanOperation": -1,
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "animationType": 2,
+                                "destinationArtboardID": "46371919-93F1-4684-86F9-E89F98ABF91C"
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 32,
+                                "width": 160,
+                                "x": 160,
+                                "y": 144
+                            },
+                            "isFixedToViewport": false,
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "Alici Sec",
+                            "nameIsFixed": true,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false
+                        },
+                        {
+                            "_class": "MSImmutableHotspotLayer",
+                            "do_objectID": "EC212A41-D1FD-44C0-BF44-B31A2AD31EA4",
+                            "booleanOperation": -1,
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "do_objectID": "FA973C3C-696E-4E36-8CC2-12FEB82BCD2F",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "flow": {
+                                "_class": "MSImmutableFlowConnection",
+                                "animationType": 2,
+                                "destinationArtboardID": "A63B346D-17F5-4BF7-91F8-0C88707CC4C4"
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "do_objectID": "F68DE8D4-E64B-447C-A149-33422793D132",
+                                "constrainProportions": false,
+                                "height": 80,
+                                "width": 320,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "isFixedToViewport": false,
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "Alici Sec",
+                            "nameIsFixed": true,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false
+                        }
+                    ]
                 }
             ],
             "backgroundColor": {
@@ -1711,11 +2635,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "height": 568,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "height": 568
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1930,11 +2854,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "width": 640,
-                "offersLandscapeVariant": 1,
-                "height": 360,
                 "allowResizedMatching": 0,
-                "name": "Mobile"
+                "offersLandscapeVariant": 1,
+                "name": "Mobile",
+                "width": 640,
+                "height": 360
             },
             "resizesContent": true,
             "verticalRulerData": {
