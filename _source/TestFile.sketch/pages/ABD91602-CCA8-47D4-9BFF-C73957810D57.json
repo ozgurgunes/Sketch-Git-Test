@@ -272,11 +272,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "width": 320,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "width": 320
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -597,11 +597,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "width": 320,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "width": 320
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -903,11 +903,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "width": 320,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "width": 320
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1222,11 +1222,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "width": 320,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "width": 320
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1448,11 +1448,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "height": 568,
-                "offersLandscapeVariant": 0,
-                "width": 320,
                 "allowResizedMatching": 0,
-                "name": "Page - XSmall"
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "width": 320
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1668,11 +1668,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "height": 360,
-                "offersLandscapeVariant": 1,
-                "width": 640,
                 "allowResizedMatching": 0,
-                "name": "Mobile"
+                "offersLandscapeVariant": 1,
+                "name": "Mobile",
+                "height": 360,
+                "width": 640
             },
             "resizesContent": true,
             "verticalRulerData": {
