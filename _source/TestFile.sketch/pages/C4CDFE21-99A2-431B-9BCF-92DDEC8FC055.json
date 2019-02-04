@@ -61,7 +61,7 @@
                 "constrainProportions": false,
                 "height": 632,
                 "width": 320,
-                "x": 1426,
+                "x": 1846,
                 "y": -686
             },
             "isFixedToViewport": false,
@@ -95,7 +95,7 @@
                 "_class": "MSImmutableFreeformGroupLayout",
                 "do_objectID": "E6C1D615-37BE-48AB-99F7-70DD3CF4D310"
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "symbolInstance",
@@ -268,11 +268,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -300,7 +300,7 @@
                 "constrainProportions": false,
                 "height": 568,
                 "width": 320,
-                "x": 1006,
+                "x": 1426,
                 "y": -686
             },
             "isFixedToViewport": false,
@@ -593,16 +593,279 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
                 "_class": "rulerData",
                 "do_objectID": "943E58E5-1DF4-4A09-A418-A23BDE4BC4A1",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "F92B988B-A592-444D-8E68-AC6B04E530A7",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "D3302B96-CD00-4F29-B8C2-3DD9047B5DEC",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "F001AD29-E6FA-42A7-8997-5C8220D0153E",
+                "constrainProportions": false,
+                "height": 568,
+                "width": 320,
+                "x": 1006,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Doviz Islemleri - 03 - B",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "90410507-CD4C-4432-8BA8-4E0B1B467ADC",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout",
+                "do_objectID": "824F2D2D-5851-4708-B005-F6FD1D23E8EC"
+            },
+            "hasClickThrough": false,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "512241FD-64EF-4599-90F8-58B3A90FDEF8",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "08700C42-30BB-453F-90C8-E770E345F860",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "D3EDF4F6-95C5-4850-908D-E717C4759675",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "F8B095CB-ADEC-4773-BDAE-9A831DB02C0E",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "C95D7283-7289-4656-86B3-3F740DDE9DCA",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "5B8881BB-41B4-4D82-B716-1A38AC429B32",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": "6A13D8AA-96A6-4B99-9255-59F76043B33B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "231442E6-4BED-463C-86AD-77C7480AE7BD",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050_symbolID",
+                            "value": "A455CC97-EB91-4199-8140-EB7842252AEA"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8F1B5A95-3216-42EE-851B-24863CADEB0E",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050/8231473D-E5E9-4154-9516-BD6B3BEA64C2_layerStyle",
+                            "value": "BC3437B0-7663-4820-81BF-FD4D9BBBE36B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4B16EE74-3007-407E-B036-6303C74D1B9B",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Tutar\u0131n \u00c7ekilece\u011fi Hesap"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "E0552E8F-7066-4037-B595-DB544EA485AF",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "474F607F-BB88-488F-931B-1E0AD0FBC15C",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "5E4D2247-E402-4D69-B152-B370C02FCD30",
+                        "constrainProportions": false,
+                        "height": 511,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 01 - A",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 18,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "B07EA4A6-21B1-433C-8F91-C5E41D997AB9",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "75099348-638A-4528-BD12-DF051754396E",
+                            "overrideName": "BC022112-C9E9-4C39-B633-223BCA845C0D_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "37D10F45-38A1-43D7-90C9-F50EE81B0DE1",
+                            "overrideName": "AD2865BE-02DA-4052-9D5B-249825485E51_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "C04C6AC7-74E1-4E87-A547-D2CEFE663F82",
+                            "overrideName": "5C866F43-82C1-4DC0-88E7-9EF6AD97F1EC_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "ADC00D20-1224-4AFC-A52D-DE6DB8449F6A",
+                            "overrideName": "79AB3CF6-D715-4887-80D1-F95A6381EA70_symbolID",
+                            "value": ""
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "99C12545-2DD0-4108-8E8F-5FBCB9DCADDA",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "CC425A9B-6A50-4EB9-A48F-407D993FA283",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "A0663C8C-F89A-4670-9B59-1A8968B66DFC",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "4F88D91E-9024-425C-AFB2-2BC701593D25",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "width": 320,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "allowResizedMatching": 0
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "A723085A-98AE-42C7-A7DD-27A68BA64571",
                 "base": 0,
                 "guides": []
             }
@@ -634,7 +897,7 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "name": "Doviz Islemleri - 03",
+            "name": "Doviz Islemleri - 03 - A",
             "nameIsFixed": true,
             "resizingConstraint": 63,
             "resizingType": 0,
@@ -899,11 +1162,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1237,11 +1500,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1463,11 +1726,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 320,
                 "offersLandscapeVariant": 0,
                 "name": "Page - XSmall",
-                "width": 320,
-                "height": 568
+                "height": 568,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1683,11 +1946,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "width": 640,
                 "offersLandscapeVariant": 1,
                 "name": "Mobile",
-                "width": 640,
-                "height": 360
+                "height": 360,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {

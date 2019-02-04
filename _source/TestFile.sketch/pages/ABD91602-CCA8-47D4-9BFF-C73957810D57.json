@@ -272,11 +272,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "height": 568,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "width": 320,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -597,11 +597,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "height": 568,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "width": 320,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -903,11 +903,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "height": 568,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "width": 320,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -969,7 +969,7 @@
                 "_class": "MSImmutableFreeformGroupLayout",
                 "do_objectID": "A2946BB9-8CC9-48BB-A3EE-364B5852BD8D"
             },
-            "hasClickThrough": false,
+            "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "symbolInstance",
@@ -1222,11 +1222,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "height": 568,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "width": 320,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1448,11 +1448,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "width": 320,
-                "offersLandscapeVariant": 0,
-                "name": "Page - XSmall",
                 "height": 568,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 0,
+                "width": 320,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1668,11 +1668,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "width": 640,
-                "offersLandscapeVariant": 1,
-                "name": "Mobile",
                 "height": 360,
-                "allowResizedMatching": 0
+                "offersLandscapeVariant": 1,
+                "width": 640,
+                "allowResizedMatching": 0,
+                "name": "Mobile"
             },
             "resizesContent": true,
             "verticalRulerData": {

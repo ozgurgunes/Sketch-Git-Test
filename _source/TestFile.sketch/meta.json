@@ -1,9 +1,77 @@
 {
     "commit": "e3473aaec6a050ee4268ca857a5af9557b6f40d0",
     "pagesAndArtboards": {
-        "0425BEFE-1868-4C9F-8AAE-A951645FA7BA": {
+        "ABD91602-CCA8-47D4-9BFF-C73957810D57": {
+            "name": "Repo",
+            "artboards": {
+                "D8EAF250-CEC0-4FAA-AD8A-8CFD5FC98205": {
+                    "name": "Repo Islemleri - 05"
+                },
+                "CC1AC9F8-125B-4F76-B4B6-5DA334AA3495": {
+                    "name": "Repo Islemleri - 02"
+                },
+                "AFE3A577-0CEE-444E-91FB-4C2826C7391D": {
+                    "name": "Repo Islemleri - 01"
+                },
+                "81F6576A-92B0-4ADB-B13D-23370C84B133": {
+                    "name": "- Chapter: Repo Islemleri"
+                },
+                "CFA5A4FA-8B53-4CA9-B83A-D3D5862A5AEC": {
+                    "name": "Repo Islemleri - 04"
+                },
+                "6E8B01FC-0109-44CD-B645-82FABF77775F": {
+                    "name": "Repo Islemleri - 03"
+                }
+            }
+        },
+        "011A4071-15D0-41DC-A4A3-8BE480D71FFD": {
+            "name": "Cover",
+            "artboards": {
+                "B13ED050-309D-47A8-A40A-7CCF38251DB1": {
+                    "name": "- Document Cover"
+                }
+            }
+        },
+        "7A196B33-1390-4F51-91F6-EBEFE10DF106": {
             "name": "----------",
             "artboards": {}
+        },
+        "DC3E995E-7E30-45DB-A5C8-BAA6CDE3BAEA": {
+            "name": "Page 1",
+            "artboards": {
+                "82B20DE3-B76A-450D-A67B-4AEEE5C462A7": {
+                    "name": "- Chapter: Bono Islemleri"
+                },
+                "A77D87F5-546D-4304-AA72-3993188A5BF8": {
+                    "name": "Repo Islemleri - 01"
+                }
+            }
+        },
+        "C4CDFE21-99A2-431B-9BCF-92DDEC8FC055": {
+            "name": "Doviz",
+            "artboards": {
+                "919B6C90-D764-4269-9EE0-B074169996B8": {
+                    "name": "Doviz Islemleri - 05"
+                },
+                "CD4CAA66-FE3E-4016-BD11-834C475B199A": {
+                    "name": "Doviz Islemleri - 03 - A"
+                },
+                "F92B988B-A592-444D-8E68-AC6B04E530A7": {
+                    "name": "Doviz Islemleri - 03 - B"
+                },
+                "6A1A7984-FACD-408D-961C-03B58B16F2EE": {
+                    "name": "Doviz Islemleri - 04"
+                },
+                "D6DDEB6C-7E64-4CDC-A411-59445C74ADA2": {
+                    "name": "- Chapter: Doviz Islemleri"
+                },
+                "ECDE85BA-AB26-4EE0-8D55-E64C6ADAF0A8": {
+                    "name": "Doviz Islemleri - 02"
+                },
+                "F20E069A-E6E7-4602-90D7-D177E14F4748": {
+                    "name": "Doviz Islemleri - 01"
+                }
+            }
         },
         "8744DABC-6F96-42C2-A26A-16599BE34162": {
             "name": "Transferler",
@@ -28,52 +96,6 @@
                 },
                 "46371919-93F1-4684-86F9-E89F98ABF91C": {
                     "name": "Kayitli Islemler - 01"
-                }
-            }
-        },
-        "C4CDFE21-99A2-431B-9BCF-92DDEC8FC055": {
-            "name": "Doviz",
-            "artboards": {
-                "F20E069A-E6E7-4602-90D7-D177E14F4748": {
-                    "name": "Doviz Islemleri - 01"
-                },
-                "919B6C90-D764-4269-9EE0-B074169996B8": {
-                    "name": "Doviz Islemleri - 05"
-                },
-                "CD4CAA66-FE3E-4016-BD11-834C475B199A": {
-                    "name": "Doviz Islemleri - 03"
-                },
-                "6A1A7984-FACD-408D-961C-03B58B16F2EE": {
-                    "name": "Doviz Islemleri - 04"
-                },
-                "D6DDEB6C-7E64-4CDC-A411-59445C74ADA2": {
-                    "name": "- Chapter: Doviz Islemleri"
-                },
-                "ECDE85BA-AB26-4EE0-8D55-E64C6ADAF0A8": {
-                    "name": "Doviz Islemleri - 02"
-                }
-            }
-        },
-        "ABD91602-CCA8-47D4-9BFF-C73957810D57": {
-            "name": "Repo",
-            "artboards": {
-                "D8EAF250-CEC0-4FAA-AD8A-8CFD5FC98205": {
-                    "name": "Repo Islemleri - 05"
-                },
-                "CC1AC9F8-125B-4F76-B4B6-5DA334AA3495": {
-                    "name": "Repo Islemleri - 02"
-                },
-                "AFE3A577-0CEE-444E-91FB-4C2826C7391D": {
-                    "name": "Repo Islemleri - 01"
-                },
-                "81F6576A-92B0-4ADB-B13D-23370C84B133": {
-                    "name": "- Chapter: Repo Islemleri"
-                },
-                "CFA5A4FA-8B53-4CA9-B83A-D3D5862A5AEC": {
-                    "name": "Repo Islemleri - 04"
-                },
-                "6E8B01FC-0109-44CD-B645-82FABF77775F": {
-                    "name": "Repo Islemleri - 03"
                 }
             }
         },
@@ -106,32 +128,8 @@
                 }
             }
         },
-        "011A4071-15D0-41DC-A4A3-8BE480D71FFD": {
-            "name": "Cover",
-            "artboards": {
-                "B13ED050-309D-47A8-A40A-7CCF38251DB1": {
-                    "name": "- Document Cover"
-                }
-            }
-        },
-        "3EEF1699-E001-44E5-939D-26BB8027FD6F": {
-            "name": "Thanks",
-            "artboards": {
-                "E2B4FB7D-7A70-423C-AA58-1D10CD5B4B1B": {
-                    "name": "- Thanks"
-                }
-            }
-        },
         "83AD06EB-3BD9-45A6-A79C-ADD49C39DACE": {
             "name": "Symbols",
-            "artboards": {}
-        },
-        "7A196B33-1390-4F51-91F6-EBEFE10DF106": {
-            "name": "----------",
-            "artboards": {}
-        },
-        "EAB68448-13A7-4BE2-8749-BD02A58D4560": {
-            "name": "----------",
             "artboards": {}
         },
         "40312C36-6B35-4F63-9DA2-BC631363E5F1": {
@@ -208,6 +206,22 @@
                 },
                 "E999196E-6ABD-4F71-B385-612EBBEDFB99": {
                     "name": "Bilgilerim - Telefon - 02"
+                }
+            }
+        },
+        "EAB68448-13A7-4BE2-8749-BD02A58D4560": {
+            "name": "----------",
+            "artboards": {}
+        },
+        "0425BEFE-1868-4C9F-8AAE-A951645FA7BA": {
+            "name": "----------",
+            "artboards": {}
+        },
+        "3EEF1699-E001-44E5-939D-26BB8027FD6F": {
+            "name": "Thanks",
+            "artboards": {
+                "E2B4FB7D-7A70-423C-AA58-1D10CD5B4B1B": {
+                    "name": "- Thanks"
                 }
             }
         }

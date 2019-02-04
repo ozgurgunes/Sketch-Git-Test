@@ -1,6 +1,6 @@
 {
     "ABD91602-CCA8-47D4-9BFF-C73957810D57": {
-        "scrollOrigin": "{617, 923}",
+        "scrollOrigin": "{1540, 949}",
         "zoomValue": 1
     },
     "011A4071-15D0-41DC-A4A3-8BE480D71FFD": {
@@ -12,8 +12,12 @@
         "zoomValue": 1
     },
     "C4CDFE21-99A2-431B-9BCF-92DDEC8FC055": {
-        "scrollOrigin": "{725, 854}",
-        "zoomValue": 0.7114695340501792
+        "scrollOrigin": "{-160, 1071}",
+        "zoomValue": 1
+    },
+    "DC3E995E-7E30-45DB-A5C8-BAA6CDE3BAEA": {
+        "scrollOrigin": "{1067, 853}",
+        "zoomValue": 1
     },
     "8744DABC-6F96-42C2-A26A-16599BE34162": {
         "scrollOrigin": "{484, 697}",
@@ -24,8 +28,8 @@
         "zoomValue": 0.2653260445138618
     },
     "9F552CA5-443E-4DA4-81C4-EB9E7F027541": {
-        "scrollOrigin": "{266, 620}",
-        "zoomValue": 0.5
+        "scrollOrigin": "{-674, 420}",
+        "zoomValue": 1
     },
     "E5119F10-8AF5-4166-9810-206530D7A5D2": {
         "scrollOrigin": "{481, 291}",

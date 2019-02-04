@@ -1,0 +1,504 @@
+{
+    "_class": "page",
+    "do_objectID": "DC3E995E-7E30-45DB-A5C8-BAA6CDE3BAEA",
+    "booleanOperation": -1,
+    "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+    },
+    "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+    },
+    "isFixedToViewport": false,
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "Page 1",
+    "nameIsFixed": false,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "clippingMaskMode": 0,
+    "hasClippingMask": false,
+    "style": {
+        "_class": "style",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+    },
+    "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout"
+    },
+    "hasClickThrough": true,
+    "layers": [
+        {
+            "_class": "artboard",
+            "do_objectID": "A77D87F5-546D-4304-AA72-3993188A5BF8",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "DAD07BBB-2BF8-4052-B626-C4F4186AEB41",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "1A1CEABB-D579-4C61-A2E2-21E230D2A9CA",
+                "constrainProportions": false,
+                "height": 616,
+                "width": 320,
+                "x": -254,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Repo Islemleri - 01",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "DC9E691C-EF74-4E19-8BB2-E56A1F75C2AB",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout",
+                "do_objectID": "B6AB82A4-4D5E-4591-818C-EFCC7EA61216"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "39801276-B04F-4C78-A068-8A47935FD1CC",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "B04F25BE-B78C-4ED8-AD43-7CB1303DBDEE",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "86AC57E4-37B6-41FE-A474-3264571262A3",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "8D33F3FE-583A-41B3-9B3F-15433ED3DBE1",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FB18068D-3CEF-4FC5-B721-6F235FDAE3D2",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Bono \u0130\u015flemleri"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "04C56B3A-F785-4BF3-A6C9-D8C62F45C204",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "5CED8FF2-EE5C-48CC-AD5F-54621046FCA3",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": "24F5FBE2-CD45-4FA4-9A5B-72656C3D4DCB"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "1B24C2A9-3B8C-47EB-AEA9-211A816DB951",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "4C4A8008-02EB-48E8-8480-4B8D8300C102",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "C3696411-4E49-46C2-8194-193BE5AC324A",
+                        "constrainProportions": false,
+                        "height": 552,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 01 - A",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 18,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "90B6B502-5578-460B-A4A4-A24109D223D1",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "5809D66A-9381-47FA-8DD5-7FA211368959",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "2457AC21-8C41-4E4E-823F-4715B255D03A",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "CFB0E24E-CF35-4F00-90EE-5D4ABC7C3B52",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "5148A01A-74B5-42CD-9284-F46FBB11CAF0",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "allowResizedMatching": 0,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "height": 568,
+                "width": 320
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "CCB37F6B-A20B-45EE-9B43-405E3DC10559",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "82B20DE3-B76A-450D-A67B-4AEEE5C462A7",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "ECC2C1E4-01FD-4B52-B655-33A92F04D77F",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "24A1279E-2DDB-4EAE-916E-C5DB7410938C",
+                "constrainProportions": false,
+                "height": 360,
+                "width": 640,
+                "x": -994,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "- Chapter: Bono Islemleri",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "402EEC9C-18CD-49E3-8E10-99455B2396F8",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout",
+                "do_objectID": "A9FDD21C-4BDE-4AC3-9DE5-0C204AF4DF7C"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "D0D75808-C599-4A93-A24B-5F92FAC19C6B",
+                    "booleanOperation": 0,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "5FF5EF62-569E-4B99-9634-9D42B6EF56A3",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "16A3CDD8-9201-486E-B760-603FCB161956",
+                        "constrainProportions": false,
+                        "height": 360,
+                        "width": 640,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "6 - Guides / Cover / 360",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "5B3C8485-C46F-4333-AE20-11B8EF1C03C0",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "F26492C8-0551-488D-AADD-C934CC373E7A_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "C3444EF6-75F2-4E8D-BC1C-44A53F465FF4_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "41286274-B634-4FE7-A960-03861ED662C4_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "CFB408C9-8EFA-4747-916A-8ED55747A8D5_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "86FFBE01-E03E-495D-B6B9-E8B7DB83C044_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "C94110E3-C302-4D5C-921B-A63F984E9EE2_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "ED4B4501-A8D2-412E-8F88-75AB5EA6FDB8_stringValue",
+                            "value": "Bono \u0130\u015flemleri"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "6C23EEDD-735E-4C49-8F7D-B3EA6779C452",
+                            "overrideName": "1C4FA0FB-893A-4D5E-9903-D1D12230009D_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4A566FCB-190B-4CA9-AEA9-8C5350FF22BA",
+                            "overrideName": "7E1C9865-9ED5-4640-B7C3-1423F22D744A_stringValue",
+                            "value": "Mobile"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "D85EDE64-48F1-41CA-BA06-65E76BC4425A",
+                            "overrideName": "F5BB0411-096A-41A0-89EA-8F100AEC0630_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CF19B886-58F6-48AA-B7BE-008C083BEF55",
+                            "overrideName": "7E28DFBF-EA2F-4E7D-B029-6A14F580D800_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "46C3A568-A19C-420A-9D85-112B2D3611DE",
+                            "overrideName": "859C4D80-E095-4CF9-8287-3EA9B2D818FC_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "51340966-8131-49A2-89D1-BDA40CD5AD42",
+                            "overrideName": "4787389A-9117-40DD-94E4-5571CAFE249D_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "D2A0783D-4EDF-46FC-A1C8-D179B19E4C4E",
+                            "overrideName": "A320B3EE-B680-4692-AF00-E5829AB696B1_symbolID",
+                            "value": ""
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "DC784934-8463-4E87-870F-F412E1D4A97B",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "542E3D6B-1DB4-475A-90DE-B04729688C6B",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "17AC4F85-C0E6-4454-BCB2-10CB8E1AF53D",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "presetDictionary": {
+                "allowResizedMatching": 0,
+                "offersLandscapeVariant": 1,
+                "name": "Mobile",
+                "height": 360,
+                "width": 640
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "35E65CA9-C9CD-4BB4-863A-3EB9BE08DB1F",
+                "base": 0,
+                "guides": []
+            }
+        }
+    ],
+    "horizontalRulerData": {
+        "_class": "rulerData",
+        "base": -994,
+        "guides": []
+    },
+    "includeInCloudUpload": true,
+    "verticalRulerData": {
+        "_class": "rulerData",
+        "base": -699,
+        "guides": []
+    }
+}
