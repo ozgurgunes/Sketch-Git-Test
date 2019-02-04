@@ -29,6 +29,11 @@
     "resizingType": 0,
     "rotation": 0,
     "shouldBreakMaskChain": false,
+    "userInfo": {
+        "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {}
+        }
+    },
     "clippingMaskMode": 0,
     "hasClippingMask": false,
     "style": {

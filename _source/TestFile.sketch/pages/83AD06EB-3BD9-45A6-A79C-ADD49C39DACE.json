@@ -29,6 +29,12 @@
     "resizingType": 0,
     "rotation": 0,
     "shouldBreakMaskChain": false,
+    "userInfo": {
+        "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {},
+            "com.animaapp.uses.anima": 1
+        }
+    },
     "clippingMaskMode": 0,
     "hasClippingMask": false,
     "style": {
@@ -42,16 +48,1134 @@
         "_class": "MSImmutableFreeformGroupLayout"
     },
     "hasClickThrough": true,
-    "layers": [],
+    "layers": [
+        {
+            "_class": "group",
+            "do_objectID": "B4A968D4-C959-4AF7-854D-44818E221716",
+            "booleanOperation": -1,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": true,
+                "height": 24,
+                "width": 4650,
+                "x": 0,
+                "y": -124
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": true,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "Titles",
+            "nameIsFixed": false,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "text",
+                    "do_objectID": "53999105-199D-4627-8B6A-EEF6E4D69E9C",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 325,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "1 - Elements / Asset / Left / Spec",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "5E61CD78-2336-4B05-830C-B96215A64452",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "1 - Elements / Asset / Left / Spec",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 34,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 4}, {323, 19}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "D4C03B72-694C-4E6C-8388-14CACDDFA352",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 368,
+                        "x": 456,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "1 - Elements / Asset / Right / Amount",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "91D2A592-6F8E-4033-BF12-0BCC9A3774F6",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "1 - Elements / Asset / Right / Amount",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 37,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 3}, {366, 21}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "125C8C86-634F-4102-9226-CB81E2A07D4B",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 320,
+                        "x": 908,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "1 - Elements / Table / Cell / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "9E0B32B5-6876-4645-9890-11A5D3D8DBA8",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "1 - Elements / Table / Cell / Base",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 34,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 4}, {318, 19}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "7881F051-2B2A-4930-9AC7-9F483FD5E40A",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 360,
+                        "x": 1396,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Form / Frame / Widget",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "E441CA55-BA10-432E-9F6B-DC00CDD878E9",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "2 - Controls / Form / Frame / Widget",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 36,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 3}, {358, 21}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "6DE3C6FA-BD44-4E22-A5AC-6A2163699EF5",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 319,
+                        "x": 1844,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / List / Spec - Small",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "CAE47F32-8B0D-4CCB-B063-1CDB33F8F1D2",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "2 - Controls / List / Spec - Small",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 34,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 3}, {316, 20}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "0E430456-1332-4A0C-B1EB-A187A56A030E",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 337,
+                        "x": 2300,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Table Action - Small",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "BC12C9F6-AECF-40AA-A8E6-F81F5ACB4CF1",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "2 - Controls / Table Action - Small",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 35,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 3}, {335, 20}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "E260CEA6-DDE1-44D1-AAFF-8AD6CCC0767F",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 442,
+                        "x": 2788,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Table / Hesaplar / Base - Small",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "89599CA1-D324-47B5-A205-9D427E149768",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "2 - Controls / Table / Hesaplar / Base - Small",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 46,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 4}, {440, 19}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "AD2380E5-F588-4D59-847A-9B90FB3B26D7",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 418,
+                        "x": 3276,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Hesaplar / Table - Small",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "65FD2671-5900-4CF8-BB90-D6442D607949",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "3 - Components / Hesaplar / Table - Small",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 41,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 4}, {415, 19}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "C82B279A-DCC8-4AC0-867A-D85034A7F95A",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 381,
+                        "x": 3796,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Navigation / Tab Bar",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "699A3C07-F1ED-4F49-9790-42827C55A35E",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "3 - Components / Navigation / Tab Bar",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 37,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 3}, {380, 21}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                },
+                {
+                    "_class": "text",
+                    "do_objectID": "C4FD9FA3-04E3-4A06-A418-F2ADC9B8139F",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 24,
+                        "width": 334,
+                        "x": 4316,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Transfer / Form",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 47,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "sharedStyleID": "61B1580C-E108-4D67-866E-EE9F70D90DBD",
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "509F94B9-BBF1-4610-82EE-4C140A81B525",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "textStyle": {
+                            "_class": "textStyle",
+                            "encodedAttributes": {
+                                "MSAttributedStringFontAttribute": {
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "SFProText-Bold",
+                                        "size": 20
+                                    }
+                                },
+                                "MSAttributedStringColorAttribute": {
+                                    "_class": "color",
+                                    "alpha": 1,
+                                    "blue": 1,
+                                    "green": 1,
+                                    "red": 1
+                                },
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24
+                                }
+                            },
+                            "verticalAlignment": 0
+                        },
+                        "windingRule": 1
+                    },
+                    "attributedString": {
+                        "_class": "attributedString",
+                        "string": "3 - Components / Transfer / Form",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 32,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "SFProText-Bold",
+                                            "size": 20
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    "automaticallyDrawOnUnderlyingPath": false,
+                    "dontSynchroniseWithSymbol": false,
+                    "glyphBounds": "{{1, 4}, {332, 19}}",
+                    "lineSpacingBehaviour": 2,
+                    "textBehaviour": 0
+                }
+            ]
+        }
+    ],
     "horizontalRulerData": {
         "_class": "rulerData",
-        "base": -521,
+        "base": 0,
         "guides": []
     },
     "includeInCloudUpload": true,
     "verticalRulerData": {
         "_class": "rulerData",
-        "base": -485,
+        "base": 0,
         "guides": []
     }
 }

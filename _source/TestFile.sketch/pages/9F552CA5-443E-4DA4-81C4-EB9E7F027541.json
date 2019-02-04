@@ -23,12 +23,18 @@
     "isLocked": false,
     "isVisible": true,
     "layerListExpandedType": 0,
-    "name": "Mobile",
+    "name": "Hesaplarim",
     "nameIsFixed": true,
     "resizingConstraint": 63,
     "resizingType": 0,
     "rotation": 0,
     "shouldBreakMaskChain": false,
+    "userInfo": {
+        "com.animaapp.stc-sketch-plugin": {
+            "kModelPropertiesKey": {},
+            "com.animaapp.uses.anima": 1
+        }
+    },
     "clippingMaskMode": 0,
     "hasClippingMask": false,
     "style": {
@@ -45,11 +51,11 @@
     "layers": [
         {
             "_class": "artboard",
-            "do_objectID": "C4E656B5-6C9E-4753-8460-B1972AD61CDE",
+            "do_objectID": "995974A1-DDAC-400A-A536-908EB17B338B",
             "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
-                "do_objectID": "F1B3D67E-B67E-43E1-A6BF-7B3FE20DB06E",
+                "do_objectID": "3D23BD07-C293-4B8C-8AEF-8EAC306049FF",
                 "exportFormats": [],
                 "includedLayerIds": [],
                 "layerOptions": 0,
@@ -57,11 +63,11 @@
             },
             "frame": {
                 "_class": "rect",
-                "do_objectID": "F6AD076E-0823-4320-AF7B-7FCA8C349438",
+                "do_objectID": "2FD3F64D-8C97-4EC7-A862-A2AEF4AE9AB8",
                 "constrainProportions": false,
                 "height": 568,
                 "width": 320,
-                "x": 529,
+                "x": 2729,
                 "y": -354
             },
             "isFixedToViewport": false,
@@ -70,8 +76,8 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "name": "iPhone SE Copy",
-            "nameIsFixed": false,
+            "name": "Filtrele - Hesap Ac",
+            "nameIsFixed": true,
             "resizingConstraint": 63,
             "resizingType": 0,
             "rotation": 0,
@@ -85,25 +91,24 @@
             "hasClippingMask": false,
             "style": {
                 "_class": "style",
-                "do_objectID": "C30560F6-EC4B-4007-8049-3BBB5884C31E",
+                "do_objectID": "D4BBF21C-F378-4901-9401-18DCEF531840",
                 "endMarkerType": 0,
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
             },
             "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout",
-                "do_objectID": "4A9EC893-48BB-45DB-BE19-ED1A7B3667AA"
+                "_class": "MSImmutableFreeformGroupLayout"
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "symbolInstance",
-                    "do_objectID": "1FFA8B8E-AA1E-45CC-BA69-0A79689AAD36",
+                    "do_objectID": "05BF5B09-6E5E-4241-91CE-A30FB1EA8579",
                     "booleanOperation": -1,
                     "exportOptions": {
                         "_class": "exportOptions",
-                        "do_objectID": "372F8C4C-67F7-41BE-B2B3-A39C98C14D70",
+                        "do_objectID": "37EB1486-5A24-42A2-A758-C9CB6659C5CA",
                         "exportFormats": [],
                         "includedLayerIds": [],
                         "layerOptions": 0,
@@ -111,7 +116,7 @@
                     },
                     "frame": {
                         "_class": "rect",
-                        "do_objectID": "F5C3EE37-C590-46B4-BE9D-7940CDECCA47",
+                        "do_objectID": "CB5CC899-5F38-433F-8AE9-0FD725AA0047",
                         "constrainProportions": false,
                         "height": 64,
                         "width": 320,
@@ -130,29 +135,58 @@
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
                     "style": {
                         "_class": "style",
-                        "do_objectID": "0F559B8C-8A8E-4E19-A2D8-84A217217B9A",
+                        "do_objectID": "5C91B110-314C-4028-BE89-700ABFE151CA",
                         "endMarkerType": 0,
                         "miterLimit": 10,
                         "startMarkerType": 0,
                         "windingRule": 1
                     },
                     "horizontalSpacing": 0,
-                    "overrideValues": [],
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CB14A019-1C61-4E54-B0E7-D3D8BC5684B4",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "F5D86943-1683-4C4A-933A-F894693B59D2",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": "6A13D8AA-96A6-4B99-9255-59F76043B33B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "9AC3DDE6-408B-4CE0-9EB7-BB818303FEF1",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050_symbolID",
+                            "value": "A455CC97-EB91-4199-8140-EB7842252AEA"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "47433C90-C9D7-4C1D-9636-983CF37ACB73",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Hesap A\u00e7"
+                        }
+                    ],
                     "scale": 1,
-                    "symbolID": "C4E3F153-B392-4448-9787-A6327D2BB383",
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
                     "verticalSpacing": 0
                 },
                 {
                     "_class": "symbolInstance",
-                    "do_objectID": "7247E6BE-D4BC-44D1-8D1B-204DB2AFAD48",
+                    "do_objectID": "1228058B-5B95-4B16-994C-CF5BA160A790",
                     "booleanOperation": -1,
                     "exportOptions": {
                         "_class": "exportOptions",
-                        "do_objectID": "96824947-48F3-484E-ACEF-12790A761F75",
                         "exportFormats": [],
                         "includedLayerIds": [],
                         "layerOptions": 0,
@@ -160,58 +194,8 @@
                     },
                     "frame": {
                         "_class": "rect",
-                        "do_objectID": "22318794-AE87-4EDD-83DC-DEACA40125C7",
                         "constrainProportions": false,
-                        "height": 48,
-                        "width": 320,
-                        "x": 0,
-                        "y": 520
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "3 - Components / Mobile / Bars / Nav Bar / Default - 4 tems",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 34,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "7985B4F8-076D-463F-82E6-799D62593BA1",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [],
-                    "scale": 1,
-                    "symbolID": "5C065BAF-8A93-4AA4-9983-89EBC9CF0ABA",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "2BC66F08-2836-4419-A98A-F8997EF65218",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "do_objectID": "67E9F84C-18EE-45A7-84E0-4F8AC4640EC6",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "do_objectID": "2BB87FB8-77B9-430F-895E-93F7B8857E36",
-                        "constrainProportions": false,
-                        "height": 184,
+                        "height": 200,
                         "width": 320,
                         "x": 0,
                         "y": 64
@@ -222,9 +206,9 @@
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "2 - Controls / Card / Regular / Top / Giant",
+                    "name": "4 - Views / Hesaplarim / Filtrele - Hesap Ac",
                     "nameIsFixed": false,
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 10,
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
@@ -232,50 +216,24 @@
                     "hasClippingMask": false,
                     "style": {
                         "_class": "style",
-                        "do_objectID": "D26B81A2-CAB2-49A7-8C7A-89177978F65B",
                         "endMarkerType": 0,
                         "miterLimit": 10,
                         "startMarkerType": 0,
                         "windingRule": 1
                     },
                     "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
-                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
-                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
-                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
-                            "value": ""
-                        }
-                    ],
+                    "overrideValues": [],
                     "scale": 1,
-                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
+                    "symbolID": "40357008-B7C7-49B7-BAAD-291EAA5F3B23",
                     "verticalSpacing": 0
                 },
                 {
                     "_class": "symbolInstance",
-                    "do_objectID": "7E916E7F-EF3A-46A6-820D-D88352ADB3D3",
+                    "do_objectID": "D54CC2C6-BC07-4033-8086-392AD18EF053",
                     "booleanOperation": -1,
                     "exportOptions": {
                         "_class": "exportOptions",
-                        "do_objectID": "D983D918-A69F-4BFE-BB93-33C594D7B5CF",
+                        "do_objectID": "7E8F3B04-37B8-42D3-8AE2-295D291587B9",
                         "exportFormats": [],
                         "includedLayerIds": [],
                         "layerOptions": 0,
@@ -283,30 +241,35 @@
                     },
                     "frame": {
                         "_class": "rect",
-                        "do_objectID": "0EAF9E0F-B065-46CF-8D3A-FFF4B9ED6D21",
+                        "do_objectID": "DD8C97FC-6DEF-4234-B719-2246B6CEA983",
                         "constrainProportions": false,
-                        "height": 93,
-                        "width": 130,
-                        "x": 21,
-                        "y": 269
+                        "height": 68,
+                        "width": 320,
+                        "x": 0,
+                        "y": 500
                     },
-                    "isFixedToViewport": false,
+                    "isFixedToViewport": true,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
                     "isVisible": true,
                     "layerListExpandedType": 0,
-                    "name": "2 - Controls / Card / Regular / Top / Giant Copy",
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
                     "nameIsFixed": false,
-                    "resizingConstraint": 63,
+                    "resizingConstraint": 34,
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
                     "style": {
                         "_class": "style",
-                        "do_objectID": "3D372000-C718-457B-BA68-773B738757D2",
+                        "do_objectID": "88AD5D56-DF9C-4D6E-B827-20E9FAF1C251",
                         "endMarkerType": 0,
                         "miterLimit": 10,
                         "startMarkerType": 0,
@@ -316,111 +279,37 @@
                     "overrideValues": [
                         {
                             "_class": "overrideValue",
-                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
-                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+                            "do_objectID": "42A06F6B-4FCF-4CCE-8340-A9C17E761F50",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2_symbolID",
+                            "value": "C9189FCB-34E3-4325-83EC-EFC7864EB077"
                         },
                         {
                             "_class": "overrideValue",
-                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
-                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
+                            "do_objectID": "EC8D7890-209E-40BF-958A-F5C968B4EB3D",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2/CF925C8B-F139-4345-8470-676A67F8F241/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Tamam"
                         },
                         {
                             "_class": "overrideValue",
-                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
-                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
+                            "do_objectID": "34F5BE0B-6EA5-4FBC-9A12-C93E8FE23120",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
                         },
                         {
                             "_class": "overrideValue",
-                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
-                            "value": ""
+                            "do_objectID": "7A243380-FB7B-4048-8BA7-EE6A33F8BFDF",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/FF0D3660-ECD7-4D4D-8244-29DE275E87D1_symbolID",
+                            "value": "D45392D8-B152-4EE5-BD0E-619C9D93829A"
                         }
                     ],
                     "scale": 1,
-                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "BAB3C776-32A3-4E00-94F4-600D84431732",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "do_objectID": "89817843-2AA7-4635-B00F-021CBE2A8C4E",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "do_objectID": "5B74EF08-87A7-461F-9E42-908DFB4DC01D",
-                        "constrainProportions": false,
-                        "height": 93,
-                        "width": 130,
-                        "x": 160,
-                        "y": 382
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "2 - Controls / Card / Regular / Top / Giant Copy 2",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 63,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "8511E07F-3B64-4211-AEC3-EE78598016DF",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
-                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
-                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
-                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
-                            "value": ""
-                        }
-                    ],
-                    "scale": 1,
-                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
+                    "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
                     "verticalSpacing": 0
                 }
             ],
             "backgroundColor": {
                 "_class": "color",
-                "do_objectID": "814C8D72-92A8-4D72-BAEC-E8875FF8F536",
+                "do_objectID": "2E9B8F90-55FC-4BC7-BD18-DA9C4B8D08A6",
                 "alpha": 1,
                 "blue": 1,
                 "green": 1,
@@ -429,7 +318,7 @@
             "hasBackgroundColor": true,
             "horizontalRulerData": {
                 "_class": "rulerData",
-                "do_objectID": "0629AE73-519E-429C-ACD0-C8EC68AE8D70",
+                "do_objectID": "E7065B73-C456-40BB-9169-22700C269147",
                 "base": 0,
                 "guides": []
             },
@@ -438,7 +327,7 @@
             "isFlowHome": false,
             "layout": {
                 "_class": "layoutGrid",
-                "do_objectID": "FF6532EF-298B-4758-8160-420817061569",
+                "do_objectID": "437524EA-1A10-4663-B074-58C58F06AD9F",
                 "isEnabled": false,
                 "columnWidth": 13,
                 "drawHorizontal": false,
@@ -453,16 +342,1396 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "height": 568,
                 "offersLandscapeVariant": 0,
-                "width": 320,
                 "name": "Page - XSmall",
-                "height": 568
+                "width": 320,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
                 "_class": "rulerData",
-                "do_objectID": "B79A5CEC-B9CB-4F6D-979A-2CB6F7B5434B",
+                "do_objectID": "772E7AA8-E242-4E7B-93B2-586C877D5FF3",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "3B487289-9AB1-408B-8CAB-C6E49218E978",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "4AF19F01-B685-4523-B898-C35E03B9BAD2",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "D13A3736-D71A-4C96-B121-B72991E69C93",
+                "constrainProportions": false,
+                "height": 568,
+                "width": 320,
+                "x": 2309,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Hareket Yok",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "4FA3DDE2-6ED9-4DE0-A364-B54A228129C4",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "315ABBC2-7B19-4C94-BAEC-BB5A6858D757",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "9B65C061-ABD2-4D22-B02B-44BCFA162C88",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "1711F123-1CF8-4336-9B9E-2FAF621F1C9F",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "B9E2D6DD-6128-4403-A6B2-2CA0616F603C",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "A033CA07-14DC-4478-BE8D-4B4802475871",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4C92852F-997F-4066-87D6-AB86195F1531",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "164457 - Ki\u015fisel Hesap"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4D491F61-D540-424F-8E6D-9EECD0528C27",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644/C35FF0EE-E02A-4836-96A7-61986D32AD4C_stringValue",
+                            "value": "  "
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "68735DCC-AC6A-4D90-AF5E-A81D24B55ADD",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 504,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Hesaplarim / Hareket Yok",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "6E073177-597C-4D1F-AD2D-08167926D138",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "28A965D7-BB0D-43E6-AEC1-E2BDFDA99053",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "E93B3211-EB96-4C8F-A2FE-D30392E6D011",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "2DD1F334-8E5D-4317-9200-6A93FA7FFB1D",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "height": 568,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "allowResizedMatching": 0
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "D5EC0F09-E55B-40B5-B809-CF7620A647C8",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "DC3CAEF3-4E2D-4A68-A157-F14B34F1377C",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "E8B83E96-6572-4FB7-9A11-8EABD2BAFB64",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "78D66BD6-FF1F-46FA-AC9C-00AF3F8C1F49",
+                "constrainProportions": false,
+                "height": 640,
+                "width": 320,
+                "x": 1889,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Filtrele - Detayli - Sifirla",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "17C589E7-F739-4AC1-9580-676E29C518A9",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "FAE49B1B-6AD2-45F4-B522-607262EEFCD3",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "064E82F7-B516-4A93-A3C8-00AFD8230F59",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "1D54C8C4-386E-4E2B-8F5D-6F6546DA38E5",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "EBF7BFA6-CCE1-4B52-9B2D-DD575AE5C690",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CB14A019-1C61-4E54-B0E7-D3D8BC5684B4",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": "CD07FCD8-CF4C-4E74-B84D-9D2883DFF3B9"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "F5D86943-1683-4C4A-933A-F894693B59D2",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": "6A13D8AA-96A6-4B99-9255-59F76043B33B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "9AC3DDE6-408B-4CE0-9EB7-BB818303FEF1",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050_symbolID",
+                            "value": "A455CC97-EB91-4199-8140-EB7842252AEA"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "47433C90-C9D7-4C1D-9636-983CF37ACB73",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Hareketleri Filtrele"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "9787535E-C448-4C16-8AD8-9B0B519D4E82",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644/61153C5E-DBC5-477C-8E59-54844337D9F6_stringValue",
+                            "value": "S\u0131f\u0131rla"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "A5B239B9-7409-42CB-8540-87A5FF7C2E7A",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 504,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Hesaplarim / Filtrele - Detayli - Sifirla",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "B7CD3AF0-9E38-4AF7-B857-29DC88BC12E9",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "7D9DD92A-5D53-4F06-A863-8E21A79CC357",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "CC346149-7E14-4BE8-B0C1-9088DCFF1265",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "154985A4-D344-4402-8AF6-7EF32A494F65",
+                        "constrainProportions": false,
+                        "height": 68,
+                        "width": 320,
+                        "x": 0,
+                        "y": 572
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "622E8213-FF39-490F-B79B-A58DFEEECC37",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "42A06F6B-4FCF-4CCE-8340-A9C17E761F50",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2_symbolID",
+                            "value": "C9189FCB-34E3-4325-83EC-EFC7864EB077"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "EC8D7890-209E-40BF-958A-F5C968B4EB3D",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2/CF925C8B-F139-4345-8470-676A67F8F241/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Tamam"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "34F5BE0B-6EA5-4FBC-9A12-C93E8FE23120",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "7A243380-FB7B-4048-8BA7-EE6A33F8BFDF",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/FF0D3660-ECD7-4D4D-8244-29DE275E87D1_symbolID",
+                            "value": "D45392D8-B152-4EE5-BD0E-619C9D93829A"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "425C5489-4027-4E30-B1EA-3B211A678081",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "57AB12E2-2048-4EE3-B62A-A9525F2A94DD",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "82A0724C-F5BD-4843-91B7-8B863967ED0C",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "height": 568,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "allowResizedMatching": 0
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "335D58F4-9525-403C-BE61-AA26D8F2A57E",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "D91B92B4-4B50-4D26-933E-C8634F808EB7",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "A340495C-5C92-4ED3-96DD-6F9DB1E55714",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "F16FA81C-9BE4-40AE-8435-A4B023203B7A",
+                "constrainProportions": false,
+                "height": 640,
+                "width": 320,
+                "x": 1469,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Filtrele - Detayli",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "7038BD16-8A8B-47EC-8A05-81D2314D3BE4",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "C88EC831-4589-442E-BEFC-9DD235D1D39E",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "5CE4642A-317C-409E-9785-59B1A178E62C",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "151C3509-2CDB-43F2-B6C4-52E34C807DC5",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "7F3BF5B9-A2FE-4347-83F2-F58424044D06",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CB14A019-1C61-4E54-B0E7-D3D8BC5684B4",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "F5D86943-1683-4C4A-933A-F894693B59D2",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": "6A13D8AA-96A6-4B99-9255-59F76043B33B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "9AC3DDE6-408B-4CE0-9EB7-BB818303FEF1",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050_symbolID",
+                            "value": "A455CC97-EB91-4199-8140-EB7842252AEA"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "47433C90-C9D7-4C1D-9636-983CF37ACB73",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Hareketleri Filtrele"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "7DE7E7A7-66AA-4D71-8C68-81131CB2ECC9",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 504,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Hesaplarim / Filtrele - Detayli",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "3F5B1929-1CA8-43FD-9445-5A6C24666592",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "B15D8B85-41FA-49A4-938E-7944AB0F27B5",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "EBC3839A-73AA-4360-8350-641B38C985E2",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "98DD897D-A145-4E70-93AE-889E8AAB2B45",
+                        "constrainProportions": false,
+                        "height": 68,
+                        "width": 320,
+                        "x": 0,
+                        "y": 572
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "415E8ECB-4E0A-4F67-A82D-A2956DB51037",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "42A06F6B-4FCF-4CCE-8340-A9C17E761F50",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2_symbolID",
+                            "value": "C9189FCB-34E3-4325-83EC-EFC7864EB077"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "EC8D7890-209E-40BF-958A-F5C968B4EB3D",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2/CF925C8B-F139-4345-8470-676A67F8F241/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Tamam"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "34F5BE0B-6EA5-4FBC-9A12-C93E8FE23120",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "7A243380-FB7B-4048-8BA7-EE6A33F8BFDF",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/FF0D3660-ECD7-4D4D-8244-29DE275E87D1_symbolID",
+                            "value": "D45392D8-B152-4EE5-BD0E-619C9D93829A"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "4B188278-A33E-4C5D-944D-99368E542E9F",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "F8DBA074-1C93-4F50-B084-6B5BCB2B1586",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "99FD0757-9A09-4AB1-8C2D-C9D5CFB74352",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "height": 568,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "allowResizedMatching": 0
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "176858A9-57AE-44E9-9CFF-DA95E86A7A00",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "9679474E-5EA5-4204-88EB-10B715FBAA8C",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "5F806A60-96D5-4169-B78E-5A4E76D45349",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "6343C4D4-A8B9-4EF5-9A7D-265F327950D0",
+                "constrainProportions": false,
+                "height": 568,
+                "width": 320,
+                "x": 1049,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Filtrele - Hizli",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "EE18D7F3-D90E-4941-9E6C-454ACAB60601",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "502B23C1-A78F-4D82-A084-7B9CCA592F5B",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "E06E9A21-7F85-4116-BB9A-F7418B29F834",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "8287091E-CEC4-4F1A-B035-52C2A7235F23",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "B10B1E28-F4C8-4534-BF6A-FC906B7DAE1B",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CB14A019-1C61-4E54-B0E7-D3D8BC5684B4",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "F5D86943-1683-4C4A-933A-F894693B59D2",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": "6A13D8AA-96A6-4B99-9255-59F76043B33B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "9AC3DDE6-408B-4CE0-9EB7-BB818303FEF1",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050_symbolID",
+                            "value": "A455CC97-EB91-4199-8140-EB7842252AEA"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "47433C90-C9D7-4C1D-9636-983CF37ACB73",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Hareketleri Filtrele"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "EA02AAA5-B9E7-446A-B470-07F67030F451",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 240,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Hesaplarim / Filtrele - Hizli",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "2F59E25F-65C9-42A9-B62C-E2F7C9020D28",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "4B82D56C-44C1-4DBE-B603-DEB36CD562FE",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 68,
+                        "width": 320,
+                        "x": 0,
+                        "y": 500
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "42A06F6B-4FCF-4CCE-8340-A9C17E761F50",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2_symbolID",
+                            "value": "C9189FCB-34E3-4325-83EC-EFC7864EB077"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "EC8D7890-209E-40BF-958A-F5C968B4EB3D",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2/CF925C8B-F139-4345-8470-676A67F8F241/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Tamam"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "34F5BE0B-6EA5-4FBC-9A12-C93E8FE23120",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "7A243380-FB7B-4048-8BA7-EE6A33F8BFDF",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/FF0D3660-ECD7-4D4D-8244-29DE275E87D1_symbolID",
+                            "value": "D45392D8-B152-4EE5-BD0E-619C9D93829A"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "A4BD93F4-63FE-4B99-AEB5-20158F36768E",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "628DA9D3-D477-45F5-B4E0-7F8D67442963",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "9EEE0199-5D1D-4FF9-9413-AC56999AC404",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "height": 568,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "allowResizedMatching": 0
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "5F9EC659-924C-49A0-8042-FE063ED5C75B",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "B8AD488B-09B6-465A-B87B-9E90DC301FFD",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "6D438D34-15DA-4E5C-A54C-98E7198AEBD1",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "9847A028-2D0C-4A1F-B39E-CDA0FBEC0A67",
+                "constrainProportions": false,
+                "height": 816,
+                "width": 320,
+                "x": 629,
+                "y": -354
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Hesap Detayi",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "D9226B80-C19E-44B2-B27E-803ECBBC5876",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "F497EC14-B6DF-4C07-8520-24CFB23A2A19",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "5F962F12-9B71-4610-99C1-470DEF891E69",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "DF6C5769-3BD3-416A-BC02-EE867C58EF13",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "1E812AE1-7761-4D13-B333-1BE61DFB5585",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "A033CA07-14DC-4478-BE8D-4B4802475871",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": "6A13D8AA-96A6-4B99-9255-59F76043B33B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4C92852F-997F-4066-87D6-AB86195F1531",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "164457 - Ki\u015fisel Hesap"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4D491F61-D540-424F-8E6D-9EECD0528C27",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644/C35FF0EE-E02A-4836-96A7-61986D32AD4C_stringValue",
+                            "value": "  "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FF5A85C7-BF42-4567-8881-38F0EA676FF7",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050_symbolID",
+                            "value": "B568082E-A0AB-4789-83E1-421D830E6FBB"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CB1F64AF-4FAF-4765-AC74-C366C5BE80AB",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050/C41F6EEA-CB5B-4A08-B981-D43BAB1F4D82_layerStyle",
+                            "value": "BC3437B0-7663-4820-81BF-FD4D9BBBE36B"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "E5401F49-B771-4B20-AD14-323DEE83BC17",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 752,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Hesaplarim / Hesap Detayi",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "9AB6A4A5-0A23-4955-B735-1148E0200CDC",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "923F024E-D06F-4101-9678-FCB7EACD47C1",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "950552EE-7D32-426C-B178-BCB74941BD44",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "B02A78B0-D77C-45E0-8819-EEAFF227CA29",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "height": 568,
+                "offersLandscapeVariant": 0,
+                "name": "Page - XSmall",
+                "width": 320,
+                "allowResizedMatching": 0
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "0240D2CA-69EC-43C4-802B-F9E0CB52CDCF",
                 "base": 0,
                 "guides": []
             }
@@ -481,9 +1750,9 @@
             "frame": {
                 "_class": "rect",
                 "constrainProportions": false,
-                "height": 568,
+                "height": 736,
                 "width": 320,
-                "x": 159,
+                "x": 209,
                 "y": -354
             },
             "isFixedToViewport": false,
@@ -492,8 +1761,8 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "name": "iPhone SE",
-            "nameIsFixed": false,
+            "name": "Hesaplarim",
+            "nameIsFixed": true,
             "resizingConstraint": 63,
             "resizingType": 0,
             "rotation": 0,
@@ -519,7 +1788,7 @@
             "layers": [
                 {
                     "_class": "symbolInstance",
-                    "do_objectID": "854DF751-2B77-4A3D-A263-2237247AFB39",
+                    "do_objectID": "F5661789-40F9-4AE3-9B0F-AA237A6F2D93",
                     "booleanOperation": -1,
                     "exportOptions": {
                         "_class": "exportOptions",
@@ -548,6 +1817,76 @@
                     "resizingType": 0,
                     "rotation": 0,
                     "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FB18068D-3CEF-4FC5-B721-6F235FDAE3D2",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Hesaplar\u0131m"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "0FEED49A-17BC-4C10-AD17-5A11FC992715",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644/C35FF0EE-E02A-4836-96A7-61986D32AD4C_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "25866F63-9406-4E12-A273-8372F63D6649",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/A20F507F-1F92-4E03-88E9-1A69D22B4E3E_stringValue",
+                            "value": "Hesap A\u00e7"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "3233ED29-AAEF-41E1-944E-CF5506D79BCD",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 671.219512195122,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64.78048780487805
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Hesaplarim / Hesaplarim",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
                     "clippingMaskMode": 0,
                     "hasClippingMask": false,
                     "style": {
@@ -560,420 +1899,7 @@
                     "horizontalSpacing": 0,
                     "overrideValues": [],
                     "scale": 1,
-                    "symbolID": "C4E3F153-B392-4448-9787-A6327D2BB383",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "D4978D92-679D-4275-9276-A2ED76F9E4D4",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "constrainProportions": false,
-                        "height": 48,
-                        "width": 320,
-                        "x": 0,
-                        "y": 520
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "3 - Components / Mobile / Bars / Nav Bar / Default - 4 tems",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 34,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [],
-                    "scale": 1,
-                    "symbolID": "5C065BAF-8A93-4AA4-9983-89EBC9CF0ABA",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "6D852CF0-E672-4B20-A5A5-5BB5ECEB5D04",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "constrainProportions": false,
-                        "height": 184,
-                        "width": 320,
-                        "x": 0,
-                        "y": 64
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "2 - Controls / Card / Regular / Top / Giant",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 63,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
-                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
-                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
-                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
-                            "value": ""
-                        }
-                    ],
-                    "scale": 1,
-                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "A819BD10-AF14-4664-B5F3-51878A80A3F3",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "do_objectID": "8514B233-A7DA-4BAA-8D6E-2E6ACABA0ECE",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "do_objectID": "904C5BD0-D2EA-4835-94B5-3BEE9EE42A36",
-                        "constrainProportions": false,
-                        "height": 91,
-                        "width": 121,
-                        "x": 21,
-                        "y": 269
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "2 - Controls / Card / Regular / Top / Giant Copy",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 63,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "A56B02B5-AA5A-44A8-8123-898C75ECB3ED",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
-                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
-                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
-                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
-                            "value": ""
-                        }
-                    ],
-                    "scale": 1,
-                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "F6EFE3BD-27B5-44C9-B2EE-7A172B4DBB81",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "do_objectID": "9B96AF62-A9D5-40F6-A3DF-9A8B5DE8B3F1",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "do_objectID": "E93A891F-B769-4CEE-A958-86D753846D33",
-                        "constrainProportions": false,
-                        "height": 91,
-                        "width": 121,
-                        "x": 21,
-                        "y": 388
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "2 - Controls / Card / Regular / Top / Giant Copy 3",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 63,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "B17CD2E8-20AC-4FEC-AC7A-5F0BC1BF7840",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
-                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
-                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
-                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
-                            "value": ""
-                        }
-                    ],
-                    "scale": 1,
-                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "74CA2034-9E3C-407E-AC90-8DF0AF8FD31E",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "do_objectID": "77D4F7ED-8017-49A6-80FA-F013304DB8AE",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "do_objectID": "627AE9CF-233C-4454-99B3-5575D389411E",
-                        "constrainProportions": false,
-                        "height": 91,
-                        "width": 121,
-                        "x": 169,
-                        "y": 269
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "2 - Controls / Card / Regular / Top / Giant Copy 2",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 63,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "77CB41C4-EA79-4FBB-AAFC-94F736DACFEE",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
-                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
-                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
-                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
-                            "value": ""
-                        }
-                    ],
-                    "scale": 1,
-                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
-                    "verticalSpacing": 0
-                },
-                {
-                    "_class": "symbolInstance",
-                    "do_objectID": "382304CE-9CEB-4BE6-84B7-482B0453A927",
-                    "booleanOperation": -1,
-                    "exportOptions": {
-                        "_class": "exportOptions",
-                        "do_objectID": "7E1E2BCF-5DCA-40F1-922E-3469A8F4D45A",
-                        "exportFormats": [],
-                        "includedLayerIds": [],
-                        "layerOptions": 0,
-                        "shouldTrim": false
-                    },
-                    "frame": {
-                        "_class": "rect",
-                        "do_objectID": "F8DEF451-289B-42A5-94CE-A56D0E2B9E11",
-                        "constrainProportions": false,
-                        "height": 91,
-                        "width": 121,
-                        "x": 169,
-                        "y": 388
-                    },
-                    "isFixedToViewport": false,
-                    "isFlippedHorizontal": false,
-                    "isFlippedVertical": false,
-                    "isLocked": false,
-                    "isVisible": true,
-                    "layerListExpandedType": 0,
-                    "name": "2 - Controls / Card / Regular / Top / Giant Copy 4",
-                    "nameIsFixed": false,
-                    "resizingConstraint": 63,
-                    "resizingType": 0,
-                    "rotation": 0,
-                    "shouldBreakMaskChain": false,
-                    "clippingMaskMode": 0,
-                    "hasClippingMask": false,
-                    "style": {
-                        "_class": "style",
-                        "do_objectID": "AA5AB770-985B-4C7A-89FB-66708E89D37A",
-                        "endMarkerType": 0,
-                        "miterLimit": 10,
-                        "startMarkerType": 0,
-                        "windingRule": 1
-                    },
-                    "horizontalSpacing": 0,
-                    "overrideValues": [
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "FEA05911-87CC-4387-80EE-53C54C50C02A",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/18CB5727-4D8C-4EFE-B756-3FCDE7C33800_stringValue",
-                            "value": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "E5A55542-B76C-49F6-BBE2-EE6C41292693",
-                            "overrideName": "0F88D7B2-8A31-437E-B8DB-F6A380AC01E6/9AA5FDE6-D532-4501-B617-604D76CEC983_stringValue",
-                            "value": "Donec ullamcorper nulla non metus auctor fringilla."
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "94AA15EB-6186-4DDD-90E5-2511A0FAF374",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858_symbolID",
-                            "value": "519F9FC7-F281-495E-AEC9-696A76FA8A2C"
-                        },
-                        {
-                            "_class": "overrideValue",
-                            "do_objectID": "F19C6430-0819-4508-ACD1-031D2F2C2825",
-                            "overrideName": "48531399-FC80-43BC-B980-7B74EB9D9858/EA71FFEC-D1F8-419E-82F5-EFE2D346617A_symbolID",
-                            "value": ""
-                        }
-                    ],
-                    "scale": 1,
-                    "symbolID": "8BE5C217-C284-465F-BD0E-7AA48A3EF811",
+                    "symbolID": "99C12545-2DD0-4108-8E8F-5FBCB9DCADDA",
                     "verticalSpacing": 0
                 }
             ],
@@ -1009,11 +1935,11 @@
                 "totalWidth": 288
             },
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "height": 568,
                 "offersLandscapeVariant": 0,
-                "width": 320,
                 "name": "Page - XSmall",
-                "height": 568
+                "width": 320,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {
@@ -1047,7 +1973,7 @@
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 2,
-            "name": "- Mobile",
+            "name": "- Chapter: Hesaplarim",
             "nameIsFixed": true,
             "resizingConstraint": 63,
             "resizingType": 0,
@@ -1152,7 +2078,7 @@
                         {
                             "_class": "overrideValue",
                             "overrideName": "ED4B4501-A8D2-412E-8F88-75AB5EA6FDB8_stringValue",
-                            "value": "Mobile"
+                            "value": "Hesaplar\u0131m"
                         },
                         {
                             "_class": "overrideValue",
@@ -1219,11 +2145,11 @@
             "includeInCloudUpload": true,
             "isFlowHome": false,
             "presetDictionary": {
-                "allowResizedMatching": 0,
+                "height": 360,
                 "offersLandscapeVariant": 1,
-                "width": 640,
                 "name": "Mobile",
-                "height": 360
+                "width": 640,
+                "allowResizedMatching": 0
             },
             "resizesContent": true,
             "verticalRulerData": {

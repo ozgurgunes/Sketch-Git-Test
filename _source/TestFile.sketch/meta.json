@@ -1,25 +1,108 @@
 {
     "commit": "e3473aaec6a050ee4268ca857a5af9557b6f40d0",
     "pagesAndArtboards": {
-        "3EEF1699-E001-44E5-939D-26BB8027FD6F": {
-            "name": "Thanks",
+        "0425BEFE-1868-4C9F-8AAE-A951645FA7BA": {
+            "name": "----------",
+            "artboards": {}
+        },
+        "8744DABC-6F96-42C2-A26A-16599BE34162": {
+            "name": "Transferler",
             "artboards": {
-                "E2B4FB7D-7A70-423C-AA58-1D10CD5B4B1B": {
-                    "name": "- Thanks"
+                "A61D5159-A04D-4D7C-8F70-B274A16AB1D2": {
+                    "name": "Baskasinin Hesabina - 01 - B"
+                },
+                "33D29264-B90A-4C53-BA8C-C77638DB764E": {
+                    "name": "Baskasinin Hesabina - 01 - A"
+                },
+                "300F6A50-83EB-4169-99E0-A64D0DF1D845": {
+                    "name": "Baskasinin Hesabina - 02"
+                },
+                "A976984A-C909-404C-A223-04DAE36E336A": {
+                    "name": "Baskasinin Hesabina - 02 ALT"
+                },
+                "2B2C036D-52DA-4322-B6B4-4853E6BF98C7": {
+                    "name": "Baskasinin Hesabina - 03"
+                },
+                "3956C6AA-03C1-40CE-8FAE-7F0E20CAA9A0": {
+                    "name": "- Chapter: Transferler - Baskasinin Hesabina"
+                },
+                "46371919-93F1-4684-86F9-E89F98ABF91C": {
+                    "name": "Kayitli Islemler - 01"
+                }
+            }
+        },
+        "C4CDFE21-99A2-431B-9BCF-92DDEC8FC055": {
+            "name": "Doviz",
+            "artboards": {
+                "F20E069A-E6E7-4602-90D7-D177E14F4748": {
+                    "name": "Doviz Islemleri - 01"
+                },
+                "919B6C90-D764-4269-9EE0-B074169996B8": {
+                    "name": "Doviz Islemleri - 05"
+                },
+                "CD4CAA66-FE3E-4016-BD11-834C475B199A": {
+                    "name": "Doviz Islemleri - 03"
+                },
+                "6A1A7984-FACD-408D-961C-03B58B16F2EE": {
+                    "name": "Doviz Islemleri - 04"
+                },
+                "D6DDEB6C-7E64-4CDC-A411-59445C74ADA2": {
+                    "name": "- Chapter: Doviz Islemleri"
+                },
+                "ECDE85BA-AB26-4EE0-8D55-E64C6ADAF0A8": {
+                    "name": "Doviz Islemleri - 02"
+                }
+            }
+        },
+        "ABD91602-CCA8-47D4-9BFF-C73957810D57": {
+            "name": "Repo",
+            "artboards": {
+                "D8EAF250-CEC0-4FAA-AD8A-8CFD5FC98205": {
+                    "name": "Repo Islemleri - 05"
+                },
+                "CC1AC9F8-125B-4F76-B4B6-5DA334AA3495": {
+                    "name": "Repo Islemleri - 02"
+                },
+                "AFE3A577-0CEE-444E-91FB-4C2826C7391D": {
+                    "name": "Repo Islemleri - 01"
+                },
+                "81F6576A-92B0-4ADB-B13D-23370C84B133": {
+                    "name": "- Chapter: Repo Islemleri"
+                },
+                "CFA5A4FA-8B53-4CA9-B83A-D3D5862A5AEC": {
+                    "name": "Repo Islemleri - 04"
+                },
+                "6E8B01FC-0109-44CD-B645-82FABF77775F": {
+                    "name": "Repo Islemleri - 03"
                 }
             }
         },
         "9F552CA5-443E-4DA4-81C4-EB9E7F027541": {
-            "name": "Mobile",
+            "name": "Hesaplarim",
             "artboards": {
-                "39E2D22D-4F33-4141-8A17-D6E70DAB4E91": {
-                    "name": "- Mobile"
-                },
                 "A85F0D4B-264A-4B0A-91C1-BC0DF7272C8F": {
-                    "name": "iPhone SE"
+                    "name": "Hesaplarim"
                 },
-                "C4E656B5-6C9E-4753-8460-B1972AD61CDE": {
-                    "name": "iPhone SE Copy"
+                "995974A1-DDAC-400A-A536-908EB17B338B": {
+                    "name": "Filtrele - Hesap Ac"
+                },
+                "B8AD488B-09B6-465A-B87B-9E90DC301FFD": {
+                    "name": "Hesap Detayi"
+                },
+                "DC3CAEF3-4E2D-4A68-A157-F14B34F1377C": {
+                    "name": "Filtrele - Detayli - Sifirla"
+                },
+                "9679474E-5EA5-4204-88EB-10B715FBAA8C": {
+                    "name": "Filtrele - Hizli"
+                },
+                "39E2D22D-4F33-4141-8A17-D6E70DAB4E91": {
+                    "name": "- Chapter: Hesaplarim"
+                },
+                "3B487289-9AB1-408B-8CAB-C6E49218E978": {
+                    "name": "Hareket Yok"
+                },
+                "D91B92B4-4B50-4D26-933E-C8634F808EB7": {
+                    "name": "Filtrele - Detayli"
                 }
             }
         },
@@ -28,6 +111,14 @@
             "artboards": {
                 "B13ED050-309D-47A8-A40A-7CCF38251DB1": {
                     "name": "- Document Cover"
+                }
+            }
+        },
+        "3EEF1699-E001-44E5-939D-26BB8027FD6F": {
+            "name": "Thanks",
+            "artboards": {
+                "E2B4FB7D-7A70-423C-AA58-1D10CD5B4B1B": {
+                    "name": "- Thanks"
                 }
             }
         },
@@ -43,13 +134,88 @@
             "name": "----------",
             "artboards": {}
         },
-        "0425BEFE-1868-4C9F-8AAE-A951645FA7BA": {
-            "name": "----------",
-            "artboards": {}
+        "40312C36-6B35-4F63-9DA2-BC631363E5F1": {
+            "name": "Ayarlar",
+            "artboards": {
+                "8C932862-51BF-4EBC-BA66-FABF73F17545": {
+                    "name": "Bildirim Ayarlari"
+                },
+                "610CE029-5152-4B92-8B71-A2A16D9A1554": {
+                    "name": "Sifre Degistir"
+                },
+                "94EF5E63-85B3-4907-8A2D-6BF6A21F3EEF": {
+                    "name": "Bilgilerim - Adres - 01"
+                },
+                "232F4F4A-F468-4C3B-89BF-E754EAAFB137": {
+                    "name": "Kart Sifresi Degistir"
+                },
+                "27BBE962-52C0-4032-8742-19E71516E5EB": {
+                    "name": "Bilgilerim - E-Posta - 01"
+                },
+                "BA5F453C-3121-49DF-874A-4801147FAC1A": {
+                    "name": "Islem Yetkisi"
+                },
+                "E61688E5-A342-4DAC-954A-E0BFC5F037C5": {
+                    "name": "Bilgilerim - E-Posta - 03"
+                },
+                "D848937D-091D-48CD-A302-11DCFB6A6B04": {
+                    "name": "- Chapter: Ayarlar"
+                },
+                "3F96CFAA-E299-4559-8DF3-0F033DD8B48D": {
+                    "name": "Bilgilerim - Adres - 02"
+                },
+                "C53B2031-9FBC-4FC5-80E7-75DE016087B1": {
+                    "name": "Ekstre Gonderim Tercihleri - 01"
+                },
+                "2BB0C4E3-1E35-49D9-954C-75017FA02F25": {
+                    "name": "Giris Bilgileri"
+                },
+                "DEA90D8B-36DF-40D1-915F-0A42B0124053": {
+                    "name": "Bilgilerim - 01"
+                },
+                "CA4F47CB-D319-4284-8E4C-01C883C34D76": {
+                    "name": "Bilgilerim - 02"
+                },
+                "3993B1F7-72DB-407F-B82C-02AC4AE7173F": {
+                    "name": "Bilgilerim - E-Posta - 02"
+                },
+                "52034D7F-13F4-4B84-BE02-552F7134CC62": {
+                    "name": "Beni Hatirla"
+                },
+                "62F51EC0-109F-41ED-89F0-D1CDBE37FA49": {
+                    "name": "Bilgilerim - Adres - 03"
+                },
+                "BB76A82C-8007-4DA8-832B-BD4AE7171FAD": {
+                    "name": "Bilgilerim - Telefon - 03"
+                },
+                "1E9128CC-7B73-40C4-B797-26C9D6914556": {
+                    "name": "- Chapter: Bilgilerim"
+                },
+                "1FC2C6FF-6C36-4CD1-A2BD-B5EDE121CB58": {
+                    "name": "Bilgilerim - Telefon - 01"
+                },
+                "72EC5B93-9596-4FFA-BF2D-3D8D7632409B": {
+                    "name": "Kart Kullanim Ayarlari"
+                },
+                "F18D270C-FC01-4526-9D8F-6FA70210E0E2": {
+                    "name": "Kart Kullanim"
+                },
+                "B7C8EE92-B3BF-4B43-867F-14E80797A71B": {
+                    "name": "Ekstre Gonderim Tercihleri - 02"
+                },
+                "6210E56B-F15B-4877-B26B-8C110807658A": {
+                    "name": "Kart Sifresi"
+                },
+                "E999196E-6ABD-4F71-B385-612EBBEDFB99": {
+                    "name": "Bilgilerim - Telefon - 02"
+                }
+            }
         }
     },
     "version": 116,
-    "fonts": [],
+    "fonts": [
+        "SFProText-Bold"
+    ],
     "compatibilityVersion": 99,
     "app": "com.bohemiancoding.sketch3.beta",
     "autosaved": 0,

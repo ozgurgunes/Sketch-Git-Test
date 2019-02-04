@@ -1,0 +1,1959 @@
+{
+    "_class": "page",
+    "do_objectID": "8744DABC-6F96-42C2-A26A-16599BE34162",
+    "booleanOperation": -1,
+    "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+    },
+    "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 0,
+        "width": 0,
+        "x": 0,
+        "y": 0
+    },
+    "isFixedToViewport": false,
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "Transferler",
+    "nameIsFixed": true,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "userInfo": {
+        "com.animaapp.stc-sketch-plugin": {
+            "com.animaapp.uses.anima": 1
+        }
+    },
+    "clippingMaskMode": 0,
+    "hasClippingMask": false,
+    "style": {
+        "_class": "style",
+        "endMarkerType": 0,
+        "miterLimit": 10,
+        "startMarkerType": 0,
+        "windingRule": 1
+    },
+    "groupLayout": {
+        "_class": "MSImmutableFreeformGroupLayout"
+    },
+    "hasClickThrough": true,
+    "layers": [
+        {
+            "_class": "artboard",
+            "do_objectID": "A976984A-C909-404C-A223-04DAE36E336A",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "C2C1CEDB-8A4D-4BFC-B72C-C2378E683923",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "32E0F6AE-5780-4618-AC55-07DA6C2DACCE",
+                "constrainProportions": false,
+                "height": 768,
+                "width": 320,
+                "x": 1850,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Baskasinin Hesabina - 02 ALT",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "BF64C3FB-4BC9-4628-A483-F9F8BACEE607",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "6A122417-8491-4533-B5EB-324C9913E980",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "802C82B0-41D7-44B3-8C29-459181756700",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "D65074A8-9742-4340-BC13-82A9CA551C22",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "5128A3D0-E714-4D2F-8642-1B1739B5A99A",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FB18068D-3CEF-4FC5-B721-6F235FDAE3D2",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Transfer Onay\u0131"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "04C56B3A-F785-4BF3-A6C9-D8C62F45C204",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "5CED8FF2-EE5C-48CC-AD5F-54621046FCA3",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": "24F5FBE2-CD45-4FA4-9A5B-72656C3D4DCB"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "95247048-400F-45B6-AA1E-4E4045BBB508",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 640,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 02 ALT",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "0A49B636-9DE3-4572-8293-7D6064B956A3",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "D5CAB8CA-2E4E-42E1-9B02-85DAB95C9FE0",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "22C3E55A-E2A0-4A40-89D8-E41A9057FACD",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "125A4A39-A295-43C7-AACB-83AF9E5DA282",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 704
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "9B835986-AC0F-492A-8DCE-5EDE9612CE21",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "48269572-8537-48BE-BB9B-EBC98640BD84",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2_symbolID",
+                            "value": "C9189FCB-34E3-4325-83EC-EFC7864EB077"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "7A87647D-1D4E-4E25-A450-9AE1D97E7B0C",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "2884AD14-0D8A-464E-BFE8-93936C1B28F1",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/79716FC6-009F-454E-A68B-600D3F28FC28_symbolID",
+                            "value": "8B3F3500-42D5-4861-8FC1-973C5CDC28D6"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4F595F7D-6BCA-4378-97FD-5DB4F73185FF",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/79716FC6-009F-454E-A68B-600D3F28FC28/F9AAF545-A9D0-4A46-BB04-1CBA5D64C93A_layerStyle",
+                            "value": "7197159A-DD91-49E6-BABA-05296979BF58"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8F86984E-D376-4266-BD60-B08A178EC313",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2/CF925C8B-F139-4345-8470-676A67F8F241/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Onayla"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "E1EDE16A-C3B9-41E4-8684-74F5855886A9",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "C9887B99-2AC7-47F7-B6A7-6B9051980608",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "1158E423-C378-479A-AD11-6D2565B1B118",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "width": 320,
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "A2B91DBA-6F2D-4918-9BB6-D6A2355EC877",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "2B2C036D-52DA-4322-B6B4-4853E6BF98C7",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "B923792E-20F3-4D8C-94D0-F71B21DCB6D3",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "23F2821A-6FAB-4CB0-8805-9D583EA5FCED",
+                "constrainProportions": false,
+                "height": 888,
+                "width": 320,
+                "x": 1430,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Baskasinin Hesabina - 03",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "8703C939-6B95-41C5-B8CC-3C0AB38E758F",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "C0E1186F-4068-4865-9EE8-C6C6ACF1E522",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 776,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 03",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "A4A09CDD-9172-47C3-B59D-22E84752463F",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "40FC4561-2BB7-4287-9792-049AE7C34C2B",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "9B62F1FC-5993-437F-B14A-BA9F1E63E126",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "B3ECEEA8-BA01-47ED-9F81-0845D46A86B5",
+                        "constrainProportions": false,
+                        "height": 112,
+                        "width": 320,
+                        "x": 0,
+                        "y": 776
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "E5A898C9-CDDB-4D8A-AB83-C70B83A0617D",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "9CE35B57-481A-4BEC-8AC2-353F95467A78",
+                            "overrideName": "01039958-4D87-4C24-B542-D9F8AC0F4FCD_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "313F939D-C99D-4C78-8EDC-C84AFD45E425",
+                            "overrideName": "D2B83396-7FB3-4984-BF23-0F2F70385D4C_symbolID",
+                            "value": "454EE0C2-320D-474C-A72B-33590ECB7E0F"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "1AE3217A-74B6-482E-8E1C-D9748FA3641E",
+                            "overrideName": "D2B83396-7FB3-4984-BF23-0F2F70385D4C/6A530F91-A35B-4EF1-9F9F-CDC96819CEEE/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Ana Sayfaya D\u00f6n"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "364361C1-1273-4A33-A4F5-96D3EA14B99F",
+                            "overrideName": "01039958-4D87-4C24-B542-D9F8AC0F4FCD/79716FC6-009F-454E-A68B-600D3F28FC28_symbolID",
+                            "value": "8B3F3500-42D5-4861-8FC1-973C5CDC28D6"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "6E066DC5-7C1F-47AF-81D5-CB62BA45D189",
+                            "overrideName": "01039958-4D87-4C24-B542-D9F8AC0F4FCD/79716FC6-009F-454E-A68B-600D3F28FC28/F9AAF545-A9D0-4A46-BB04-1CBA5D64C93A_layerStyle",
+                            "value": "7197159A-DD91-49E6-BABA-05296979BF58"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "E43C2DD8-C3A0-487E-8E3A-3FED04B8A5E0",
+                            "overrideName": "D2B83396-7FB3-4984-BF23-0F2F70385D4C/8304C99D-648D-4D70-8952-6F2A182C9065/0A425363-4D65-4273-86D3-FB9B602CD6AC_stringValue",
+                            "value": "Yeni \u0130\u015flem Yap"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "559A7DD2-D41D-4396-A1FF-1EA88821C454",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "AEB2AD2A-6651-4D5F-B269-3993F7DFBD23",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "737161E5-27A4-4838-9509-C6491BE97E93",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "909406F9-364B-4BD4-A8F8-8102B11D6614",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "width": 320,
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "9D890DF9-2E89-4EF4-942F-0B6719C4E1F7",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "300F6A50-83EB-4169-99E0-A64D0DF1D845",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "51C1CB6E-7C3B-4D0A-AB89-9EF415A06733",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "58AB97CE-B3BE-4C50-9C01-E313D0CE5AD6",
+                "constrainProportions": false,
+                "height": 712,
+                "width": 320,
+                "x": 1010,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Baskasinin Hesabina - 02",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "3ACD7224-0824-4B22-8C04-345A75ADE3FC",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "3D838D45-55E9-42C9-B95F-989B415B4722",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "3A045830-73E7-49DB-B9C4-8FA45C6BF88E",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "17B8CC7B-721C-4F03-8A9D-F1CCE099D892",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "07C48130-64CB-4D46-9E2E-42F41C2B33E3",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FB18068D-3CEF-4FC5-B721-6F235FDAE3D2",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Ba\u015fkas\u0131n\u0131n Hesab\u0131na"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "04C56B3A-F785-4BF3-A6C9-D8C62F45C204",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "5CED8FF2-EE5C-48CC-AD5F-54621046FCA3",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": "24F5FBE2-CD45-4FA4-9A5B-72656C3D4DCB"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "5B8E9C4A-5204-4A06-90D8-759B58977EC2",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 512,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 02",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "D25A1EDE-0368-421D-B711-A120FD9B4101",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "CC84B462-913A-4CFE-A0A2-2373CAEBE342",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "E389DE91-F0EE-4341-912F-9039EAFA64E3",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "AEAEE663-1B4F-47FA-8AE4-B29DA875F583",
+                        "constrainProportions": false,
+                        "height": 112,
+                        "width": 320,
+                        "x": 0,
+                        "y": 600
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "F8D86BEB-5790-4DA5-ABF3-06F780DEE806",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "9CE35B57-481A-4BEC-8AC2-353F95467A78",
+                            "overrideName": "01039958-4D87-4C24-B542-D9F8AC0F4FCD_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "313F939D-C99D-4C78-8EDC-C84AFD45E425",
+                            "overrideName": "D2B83396-7FB3-4984-BF23-0F2F70385D4C_symbolID",
+                            "value": "454EE0C2-320D-474C-A72B-33590ECB7E0F"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "1AE3217A-74B6-482E-8E1C-D9748FA3641E",
+                            "overrideName": "D2B83396-7FB3-4984-BF23-0F2F70385D4C/6A530F91-A35B-4EF1-9F9F-CDC96819CEEE/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Onayla"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "364361C1-1273-4A33-A4F5-96D3EA14B99F",
+                            "overrideName": "01039958-4D87-4C24-B542-D9F8AC0F4FCD/79716FC6-009F-454E-A68B-600D3F28FC28_symbolID",
+                            "value": "8B3F3500-42D5-4861-8FC1-973C5CDC28D6"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "6E066DC5-7C1F-47AF-81D5-CB62BA45D189",
+                            "overrideName": "01039958-4D87-4C24-B542-D9F8AC0F4FCD/79716FC6-009F-454E-A68B-600D3F28FC28/F9AAF545-A9D0-4A46-BB04-1CBA5D64C93A_layerStyle",
+                            "value": "7197159A-DD91-49E6-BABA-05296979BF58"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "E43C2DD8-C3A0-487E-8E3A-3FED04B8A5E0",
+                            "overrideName": "D2B83396-7FB3-4984-BF23-0F2F70385D4C/8304C99D-648D-4D70-8952-6F2A182C9065/0A425363-4D65-4273-86D3-FB9B602CD6AC_stringValue",
+                            "value": "Geri D\u00f6n"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "559A7DD2-D41D-4396-A1FF-1EA88821C454",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "1CCABBB9-0F41-4CBE-BEF5-89A91669CC8A",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "435B44C9-28CE-46D7-A2EE-8D0306A77A97",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "DEAFC92F-2F1F-4E85-98D6-E55569FBF546",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "width": 320,
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "EDD2BB50-6F6D-4D68-AFC1-79A8FEB96AAB",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "46371919-93F1-4684-86F9-E89F98ABF91C",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "36F193A1-27BC-4F47-9800-B638D649E54B",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "F6B2E9D1-5B72-468C-89B5-970FE1AF4F04",
+                "constrainProportions": false,
+                "height": 568,
+                "width": 320,
+                "x": 590,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Kayitli Islemler - 01",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "56F434E3-ACE0-4A26-BDC6-319B4C1FFA31",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "64372C19-34AF-440E-9D84-EC1EFACBFFA3",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "6BB53057-48F2-466F-83EC-14E95DEE630C",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "6CDBF698-3AEB-4270-90FB-B76B8827D940",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "D88351D3-3C85-4645-AFD8-7762ADD603BB",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8D417729-09AB-4197-932B-C83B95D85672",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "0879A88A-C546-419D-8DD7-142348EA8B45",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": "6A13D8AA-96A6-4B99-9255-59F76043B33B"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "3AD85E08-D381-4BC8-B29F-A28619AE84E9",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330/CF713039-59F1-4025-BE80-9D02D5E37050_symbolID",
+                            "value": "A455CC97-EB91-4199-8140-EB7842252AEA"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8AB52F41-2675-44E6-BA98-811B70320F29",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Al\u0131c\u0131 Bilgilerini Se\u00e7"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "51A12A0C-BD43-4D95-910D-6873ECE8C6A8",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "1D467F72-C206-436C-93D4-5E1FF6055C50",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "D0A9E05E-1CD7-4A9E-8C01-BDF8B84BCE5C",
+                        "constrainProportions": false,
+                        "height": 344,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 02",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "E1727B8C-7281-41E3-84CB-313C57921FE7",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "5B95B8BD-491D-43D0-872A-A035ABEA94D8",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "4CC8A89C-FEB1-4E13-AC28-9A64F691A4D3",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "D05AAED2-383C-4F92-8007-1FE2CAB52CA9",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "C52A1C29-E2BE-4447-82DB-432B273D9BE0",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "width": 320,
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "790D1A39-3D78-4F66-A31B-860C3EEC6E71",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "A61D5159-A04D-4D7C-8F70-B274A16AB1D2",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "30D07CFE-89C4-4B63-8856-50F535B3CCA5",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "7B96EBCB-8630-497E-BF00-A548C0FAC523",
+                "constrainProportions": false,
+                "height": 1336,
+                "width": 320,
+                "x": 170,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Baskasinin Hesabina - 01 - B",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "EAA10B66-052E-410F-87BF-60EB6B7E1448",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "E4E9F141-933C-4D5F-892D-303E51BB4B82",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "37539395-82AC-4799-8AA8-98707ABCF0E4",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "32DB0EF5-C4AC-46CE-B446-F5FEACBE6523",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "03BE7BFE-A1F3-4994-BBBD-2CD751A04E85",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FB18068D-3CEF-4FC5-B721-6F235FDAE3D2",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Ba\u015fkas\u0131n\u0131n Hesab\u0131na"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "04C56B3A-F785-4BF3-A6C9-D8C62F45C204",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "5CED8FF2-EE5C-48CC-AD5F-54621046FCA3",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": "24F5FBE2-CD45-4FA4-9A5B-72656C3D4DCB"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "E9550EFE-4AB5-4AA6-A96F-832FDECC8C86",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 1216,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 01 - B",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "3DE11A48-794F-400F-B878-FA5F3D06278B",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "1C9B6986-7411-4748-B40D-8B75ABB63B16",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "497D7E77-330B-490A-B931-4073F5663585",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "2C90A297-30B3-495C-8E4B-C9119DAA1C82",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 1272
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "1078552A-28F9-410F-8051-710ADF61A155",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "48269572-8537-48BE-BB9B-EBC98640BD84",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2_symbolID",
+                            "value": "C9189FCB-34E3-4325-83EC-EFC7864EB077"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "7A87647D-1D4E-4E25-A450-9AE1D97E7B0C",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "2884AD14-0D8A-464E-BFE8-93936C1B28F1",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/79716FC6-009F-454E-A68B-600D3F28FC28_symbolID",
+                            "value": "8B3F3500-42D5-4861-8FC1-973C5CDC28D6"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4F595F7D-6BCA-4378-97FD-5DB4F73185FF",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/79716FC6-009F-454E-A68B-600D3F28FC28/F9AAF545-A9D0-4A46-BB04-1CBA5D64C93A_layerStyle",
+                            "value": "7197159A-DD91-49E6-BABA-05296979BF58"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8F86984E-D376-4266-BD60-B08A178EC313",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2/CF925C8B-F139-4345-8470-676A67F8F241/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Devam"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "1BA01B6F-40CA-4054-8EAD-5A6E5EA604DF",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "0FDD83BE-5252-4CFB-905D-C53650FFBEAF",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "305CE85D-AD9F-4618-8A9C-A3530CDC4814",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "width": 320,
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "EAC3739B-9BAD-491A-90F9-F3354C0FF2CC",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "33D29264-B90A-4C53-BA8C-C77638DB764E",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "C8BC02C7-A804-44B5-8797-815BB240F863",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "BE698BF9-71BA-4813-A631-8375899CEC68",
+                "constrainProportions": false,
+                "height": 1664,
+                "width": 320,
+                "x": -250,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "Baskasinin Hesabina - 01 - A",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "B429B2CC-47F9-4BD5-BC6E-3FC4D339C95F",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "DFC58B75-D410-4D30-B10C-90D97A977234",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "D1A986FB-8CB3-40A0-BDFF-F99C9EE1C9D8",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "427082DD-1E7A-4DF6-9286-542D684FEB71",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "3 - Components / Mobile / Bars / App Bar / Default / Base",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "B80277EA-CF45-44C6-BEC5-C76D77B3D6DD",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "FB18068D-3CEF-4FC5-B721-6F235FDAE3D2",
+                            "overrideName": "6D4A4C67-5DAB-4C73-A2AE-FA337C17504A/7E7CEBF9-DF92-4B75-BA5A-918B07CD0466_stringValue",
+                            "value": "Ba\u015fkas\u0131n\u0131n Hesab\u0131na"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "04C56B3A-F785-4BF3-A6C9-D8C62F45C204",
+                            "overrideName": "4D6A7914-314A-426B-B1DC-866E91028330_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "5CED8FF2-EE5C-48CC-AD5F-54621046FCA3",
+                            "overrideName": "9711B61A-96B2-4ADC-8BDC-6B4FEF54D644_symbolID",
+                            "value": "24F5FBE2-CD45-4FA4-9A5B-72656C3D4DCB"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "83658C9E-C8F9-409A-827C-632792C77560",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "04BB8B32-B176-48BE-A5C6-FA18D0BF69B9",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 1544,
+                        "width": 320,
+                        "x": 0,
+                        "y": 64
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "4 - Views / Transferler / Baskasinin Hesabina - 01 - A",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 10,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [],
+                    "scale": 1,
+                    "symbolID": "448F6A02-51E5-4D36-B8D5-707373A58175",
+                    "verticalSpacing": 0
+                },
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "F8A06522-E1AF-4D87-B0BF-2492D49BBD2A",
+                    "booleanOperation": -1,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 64,
+                        "width": 320,
+                        "x": 0,
+                        "y": 1600
+                    },
+                    "isFixedToViewport": true,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "2 - Controls / Panel / Default / Cell / Button",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 34,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "48269572-8537-48BE-BB9B-EBC98640BD84",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2_symbolID",
+                            "value": "C9189FCB-34E3-4325-83EC-EFC7864EB077"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "7A87647D-1D4E-4E25-A450-9AE1D97E7B0C",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07_symbolID",
+                            "value": "24ED2915-7C68-454D-8874-0F7EAB762B31"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "2884AD14-0D8A-464E-BFE8-93936C1B28F1",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/79716FC6-009F-454E-A68B-600D3F28FC28_symbolID",
+                            "value": "8B3F3500-42D5-4861-8FC1-973C5CDC28D6"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4F595F7D-6BCA-4378-97FD-5DB4F73185FF",
+                            "overrideName": "6F8CDA70-1055-4773-B9AD-59E18ADE2E07/79716FC6-009F-454E-A68B-600D3F28FC28/F9AAF545-A9D0-4A46-BB04-1CBA5D64C93A_layerStyle",
+                            "value": "7197159A-DD91-49E6-BABA-05296979BF58"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "8F86984E-D376-4266-BD60-B08A178EC313",
+                            "overrideName": "0D66E3C3-CF1D-4A15-9B74-0CB5C8514ED2/CF925C8B-F139-4345-8470-676A67F8F241/E314C18B-98FF-42E8-9EAE-0B1694E0E145_stringValue",
+                            "value": "Devam"
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "5CDB4C25-2282-4BDB-88D1-23BDDDBCA473",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "94365909-BE2E-44A4-8CF4-91DC3557CA9E",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "9F3690F0-0BB0-43EA-B3CA-3A2E84AED304",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "layout": {
+                "_class": "layoutGrid",
+                "do_objectID": "0310DEF0-66F7-401C-9633-7AC85FFF3F04",
+                "isEnabled": false,
+                "columnWidth": 13,
+                "drawHorizontal": false,
+                "drawHorizontalLines": false,
+                "drawVertical": true,
+                "gutterHeight": 12,
+                "gutterWidth": 12,
+                "guttersOutside": false,
+                "horizontalOffset": 16,
+                "numberOfColumns": 12,
+                "rowHeightMultiplication": 5,
+                "totalWidth": 288
+            },
+            "presetDictionary": {
+                "width": 320,
+                "offersLandscapeVariant": 0,
+                "height": 568,
+                "allowResizedMatching": 0,
+                "name": "Page - XSmall"
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "D4EAC757-D399-47B0-9117-22FC64006E84",
+                "base": 0,
+                "guides": []
+            }
+        },
+        {
+            "_class": "artboard",
+            "do_objectID": "3956C6AA-03C1-40CE-8FAE-7F0E20CAA9A0",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "D7ED2707-8AAC-43CF-AE8C-52712BB7A5D2",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "AC8653C6-D255-42E9-ACB7-7AD9DE891D8B",
+                "constrainProportions": false,
+                "height": 360,
+                "width": 640,
+                "x": -990,
+                "y": -686
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 2,
+            "name": "- Chapter: Transferler - Baskasinin Hesabina",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "userInfo": {
+                "com.animaapp.stc-sketch-plugin": {
+                    "kModelPropertiesKey": {}
+                }
+            },
+            "clippingMaskMode": 0,
+            "hasClippingMask": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "7FD3AD85-0601-4C43-B80E-8B3A179E00F8",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "windingRule": 1
+            },
+            "groupLayout": {
+                "_class": "MSImmutableFreeformGroupLayout"
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "symbolInstance",
+                    "do_objectID": "BE2C0F29-1319-475B-9F95-5563C52E1562",
+                    "booleanOperation": 0,
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "do_objectID": "885B7064-4238-429C-A66D-EC979CCF2D3F",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "do_objectID": "A8CA6A60-FDE7-4D56-8727-ACD807D822B7",
+                        "constrainProportions": false,
+                        "height": 360,
+                        "width": 640,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFixedToViewport": false,
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 0,
+                    "name": "6 - Guides / Cover / 360",
+                    "nameIsFixed": true,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "userInfo": {
+                        "com.animaapp.stc-sketch-plugin": {
+                            "kModelPropertiesKey": {}
+                        }
+                    },
+                    "clippingMaskMode": 0,
+                    "hasClippingMask": false,
+                    "style": {
+                        "_class": "style",
+                        "do_objectID": "514EDA91-8317-4306-B457-4EAA904E14A0",
+                        "endMarkerType": 0,
+                        "miterLimit": 10,
+                        "startMarkerType": 0,
+                        "windingRule": 1
+                    },
+                    "horizontalSpacing": 0,
+                    "overrideValues": [
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "F26492C8-0551-488D-AADD-C934CC373E7A_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "C3444EF6-75F2-4E8D-BC1C-44A53F465FF4_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "41286274-B634-4FE7-A960-03861ED662C4_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "CFB408C9-8EFA-4747-916A-8ED55747A8D5_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "86FFBE01-E03E-495D-B6B9-E8B7DB83C044_symbolID",
+                            "value": ""
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "C94110E3-C302-4D5C-921B-A63F984E9EE2_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "overrideName": "ED4B4501-A8D2-412E-8F88-75AB5EA6FDB8_stringValue",
+                            "value": "Ba\u015fkas\u0131n\u0131n Hesab\u0131na (Havale / EFT)"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "6C23EEDD-735E-4C49-8F7D-B3EA6779C452",
+                            "overrideName": "1C4FA0FB-893A-4D5E-9903-D1D12230009D_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "4A566FCB-190B-4CA9-AEA9-8C5350FF22BA",
+                            "overrideName": "7E1C9865-9ED5-4640-B7C3-1423F22D744A_stringValue",
+                            "value": "Mobile"
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "D85EDE64-48F1-41CA-BA06-65E76BC4425A",
+                            "overrideName": "F5BB0411-096A-41A0-89EA-8F100AEC0630_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "CF19B886-58F6-48AA-B7BE-008C083BEF55",
+                            "overrideName": "7E28DFBF-EA2F-4E7D-B029-6A14F580D800_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "46C3A568-A19C-420A-9D85-112B2D3611DE",
+                            "overrideName": "859C4D80-E095-4CF9-8287-3EA9B2D818FC_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "51340966-8131-49A2-89D1-BDA40CD5AD42",
+                            "overrideName": "4787389A-9117-40DD-94E4-5571CAFE249D_stringValue",
+                            "value": " "
+                        },
+                        {
+                            "_class": "overrideValue",
+                            "do_objectID": "D2A0783D-4EDF-46FC-A1C8-D179B19E4C4E",
+                            "overrideName": "A320B3EE-B680-4692-AF00-E5829AB696B1_symbolID",
+                            "value": ""
+                        }
+                    ],
+                    "scale": 1,
+                    "symbolID": "DC784934-8463-4E87-870F-F412E1D4A97B",
+                    "verticalSpacing": 0
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "do_objectID": "D73BDAC4-A373-4C13-822A-51553385D653",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": true,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "2F357533-B97E-4E9C-8D16-44858BFD5B87",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "presetDictionary": {
+                "width": 640,
+                "offersLandscapeVariant": 1,
+                "height": 360,
+                "allowResizedMatching": 0,
+                "name": "Mobile"
+            },
+            "resizesContent": true,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "do_objectID": "10F5B546-9ED0-4F34-AB3D-ED4D7DF40498",
+                "base": 0,
+                "guides": []
+            }
+        }
+    ],
+    "horizontalRulerData": {
+        "_class": "rulerData",
+        "base": -990,
+        "guides": []
+    },
+    "includeInCloudUpload": true,
+    "verticalRulerData": {
+        "_class": "rulerData",
+        "base": -686,
+        "guides": []
+    }
+}
