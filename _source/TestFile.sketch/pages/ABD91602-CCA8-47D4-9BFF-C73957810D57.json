@@ -41,10 +41,6 @@
         "startMarkerType": 0,
         "windingRule": 1
     },
-    "groupLayout": {
-        "_class": "MSImmutableFreeformGroupLayout",
-        "do_objectID": "5BCAED3A-B68F-42FE-A0C5-D57C3FA3BFA0"
-    },
     "hasClickThrough": true,
     "layers": [
         {
@@ -94,10 +90,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout",
-                "do_objectID": "6C682510-4633-45B4-AE08-19432800495C"
             },
             "hasClickThrough": false,
             "layers": [
@@ -333,10 +325,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout",
-                "do_objectID": "263228DA-BCF0-420B-94E2-E3B1088D8829"
             },
             "hasClickThrough": true,
             "layers": [
@@ -659,10 +647,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout",
-                "do_objectID": "906ACA94-5228-4DF0-B6AA-8FB8B24B58FC"
-            },
             "hasClickThrough": true,
             "layers": [
                 {
@@ -965,11 +949,7 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout",
-                "do_objectID": "A2946BB9-8CC9-48BB-A3EE-364B5852BD8D"
-            },
-            "hasClickThrough": true,
+            "hasClickThrough": false,
             "layers": [
                 {
                     "_class": "symbolInstance",
@@ -1284,10 +1264,6 @@
                 "startMarkerType": 0,
                 "windingRule": 1
             },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout",
-                "do_objectID": "D749486B-81ED-49E0-8EC8-3B3FB90FFB97"
-            },
             "hasClickThrough": false,
             "layers": [
                 {
@@ -1509,10 +1485,6 @@
                 "miterLimit": 10,
                 "startMarkerType": 0,
                 "windingRule": 1
-            },
-            "groupLayout": {
-                "_class": "MSImmutableFreeformGroupLayout",
-                "do_objectID": "075838FE-7926-4E77-B105-E8A63B9C0F47"
             },
             "hasClickThrough": true,
             "layers": [

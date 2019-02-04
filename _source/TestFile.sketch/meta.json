@@ -1,6 +1,59 @@
 {
-    "commit": "e3473aaec6a050ee4268ca857a5af9557b6f40d0",
+    "commit": "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
     "pagesAndArtboards": {
+        "0425BEFE-1868-4C9F-8AAE-A951645FA7BA": {
+            "name": "----------",
+            "artboards": {}
+        },
+        "8744DABC-6F96-42C2-A26A-16599BE34162": {
+            "name": "Transferler",
+            "artboards": {
+                "A61D5159-A04D-4D7C-8F70-B274A16AB1D2": {
+                    "name": "Baskasinin Hesabina - 01 - B"
+                },
+                "33D29264-B90A-4C53-BA8C-C77638DB764E": {
+                    "name": "Baskasinin Hesabina - 01 - A"
+                },
+                "300F6A50-83EB-4169-99E0-A64D0DF1D845": {
+                    "name": "Baskasinin Hesabina - 02"
+                },
+                "A976984A-C909-404C-A223-04DAE36E336A": {
+                    "name": "Baskasinin Hesabina - 02 ALT"
+                },
+                "2B2C036D-52DA-4322-B6B4-4853E6BF98C7": {
+                    "name": "Baskasinin Hesabina - 03"
+                },
+                "3956C6AA-03C1-40CE-8FAE-7F0E20CAA9A0": {
+                    "name": "- Chapter: Transferler - Baskasinin Hesabina"
+                },
+                "46371919-93F1-4684-86F9-E89F98ABF91C": {
+                    "name": "Kayitli Islemler - 01"
+                }
+            }
+        },
+        "C4CDFE21-99A2-431B-9BCF-92DDEC8FC055": {
+            "name": "Doviz",
+            "artboards": {
+                "F20E069A-E6E7-4602-90D7-D177E14F4748": {
+                    "name": "Doviz Islemleri - 01"
+                },
+                "919B6C90-D764-4269-9EE0-B074169996B8": {
+                    "name": "Doviz Islemleri - 05"
+                },
+                "CD4CAA66-FE3E-4016-BD11-834C475B199A": {
+                    "name": "Doviz Islemleri - 03"
+                },
+                "6A1A7984-FACD-408D-961C-03B58B16F2EE": {
+                    "name": "Doviz Islemleri - 04"
+                },
+                "D6DDEB6C-7E64-4CDC-A411-59445C74ADA2": {
+                    "name": "- Chapter: Doviz Islemleri"
+                },
+                "ECDE85BA-AB26-4EE0-8D55-E64C6ADAF0A8": {
+                    "name": "Doviz Islemleri - 02"
+                }
+            }
+        },
         "ABD91602-CCA8-47D4-9BFF-C73957810D57": {
             "name": "Repo",
             "artboards": {
@@ -24,83 +77,8 @@
                 }
             }
         },
-        "011A4071-15D0-41DC-A4A3-8BE480D71FFD": {
-            "name": "Cover",
-            "artboards": {
-                "B13ED050-309D-47A8-A40A-7CCF38251DB1": {
-                    "name": "- Document Cover"
-                }
-            }
-        },
-        "7A196B33-1390-4F51-91F6-EBEFE10DF106": {
-            "name": "----------",
-            "artboards": {}
-        },
-        "DC3E995E-7E30-45DB-A5C8-BAA6CDE3BAEA": {
-            "name": "Page 1",
-            "artboards": {
-                "82B20DE3-B76A-450D-A67B-4AEEE5C462A7": {
-                    "name": "- Chapter: Bono Islemleri"
-                },
-                "A77D87F5-546D-4304-AA72-3993188A5BF8": {
-                    "name": "Repo Islemleri - 01"
-                }
-            }
-        },
-        "C4CDFE21-99A2-431B-9BCF-92DDEC8FC055": {
-            "name": "Doviz",
-            "artboards": {
-                "919B6C90-D764-4269-9EE0-B074169996B8": {
-                    "name": "Doviz Islemleri - 05"
-                },
-                "CD4CAA66-FE3E-4016-BD11-834C475B199A": {
-                    "name": "Doviz Islemleri - 03 - A"
-                },
-                "F92B988B-A592-444D-8E68-AC6B04E530A7": {
-                    "name": "Doviz Islemleri - 03 - B"
-                },
-                "6A1A7984-FACD-408D-961C-03B58B16F2EE": {
-                    "name": "Doviz Islemleri - 04"
-                },
-                "D6DDEB6C-7E64-4CDC-A411-59445C74ADA2": {
-                    "name": "- Chapter: Doviz Islemleri"
-                },
-                "ECDE85BA-AB26-4EE0-8D55-E64C6ADAF0A8": {
-                    "name": "Doviz Islemleri - 02"
-                },
-                "F20E069A-E6E7-4602-90D7-D177E14F4748": {
-                    "name": "Doviz Islemleri - 01"
-                }
-            }
-        },
-        "8744DABC-6F96-42C2-A26A-16599BE34162": {
-            "name": "Transferler",
-            "artboards": {
-                "A61D5159-A04D-4D7C-8F70-B274A16AB1D2": {
-                    "name": "Baskasinin Hesabina - 01 - B"
-                },
-                "33D29264-B90A-4C53-BA8C-C77638DB764E": {
-                    "name": "Baskasinin Hesabina - 01 - A"
-                },
-                "300F6A50-83EB-4169-99E0-A64D0DF1D845": {
-                    "name": "Baskasinin Hesabina - 02"
-                },
-                "A63B346D-17F5-4BF7-91F8-0C88707CC4C4": {
-                    "name": "Kayitli Islemler - 01 - C"
-                },
-                "2B2C036D-52DA-4322-B6B4-4853E6BF98C7": {
-                    "name": "Baskasinin Hesabina - 03"
-                },
-                "3956C6AA-03C1-40CE-8FAE-7F0E20CAA9A0": {
-                    "name": "- Chapter: Transferler - Baskasinin Hesabina"
-                },
-                "46371919-93F1-4684-86F9-E89F98ABF91C": {
-                    "name": "Kayitli Islemler - 01 - D"
-                }
-            }
-        },
         "9F552CA5-443E-4DA4-81C4-EB9E7F027541": {
-            "name": "Hesaplarim",
+            "name": "Hesaplar",
             "artboards": {
                 "A85F0D4B-264A-4B0A-91C1-BC0DF7272C8F": {
                     "name": "Hesaplarim"
@@ -118,7 +96,7 @@
                     "name": "Filtrele - Hizli"
                 },
                 "39E2D22D-4F33-4141-8A17-D6E70DAB4E91": {
-                    "name": "- Chapter: Hesaplarim"
+                    "name": "- Chapter: Hesaplar"
                 },
                 "3B487289-9AB1-408B-8CAB-C6E49218E978": {
                     "name": "Hareket Yok"
@@ -128,8 +106,32 @@
                 }
             }
         },
+        "011A4071-15D0-41DC-A4A3-8BE480D71FFD": {
+            "name": "Cover",
+            "artboards": {
+                "B13ED050-309D-47A8-A40A-7CCF38251DB1": {
+                    "name": "- Document Cover"
+                }
+            }
+        },
+        "3EEF1699-E001-44E5-939D-26BB8027FD6F": {
+            "name": "Thanks",
+            "artboards": {
+                "E2B4FB7D-7A70-423C-AA58-1D10CD5B4B1B": {
+                    "name": "- Thanks"
+                }
+            }
+        },
         "83AD06EB-3BD9-45A6-A79C-ADD49C39DACE": {
             "name": "Symbols",
+            "artboards": {}
+        },
+        "7A196B33-1390-4F51-91F6-EBEFE10DF106": {
+            "name": "----------",
+            "artboards": {}
+        },
+        "EAB68448-13A7-4BE2-8749-BD02A58D4560": {
+            "name": "----------",
             "artboards": {}
         },
         "40312C36-6B35-4F63-9DA2-BC631363E5F1": {
@@ -208,44 +210,28 @@
                     "name": "Bilgilerim - Telefon - 02"
                 }
             }
-        },
-        "EAB68448-13A7-4BE2-8749-BD02A58D4560": {
-            "name": "----------",
-            "artboards": {}
-        },
-        "0425BEFE-1868-4C9F-8AAE-A951645FA7BA": {
-            "name": "----------",
-            "artboards": {}
-        },
-        "3EEF1699-E001-44E5-939D-26BB8027FD6F": {
-            "name": "Thanks",
-            "artboards": {
-                "E2B4FB7D-7A70-423C-AA58-1D10CD5B4B1B": {
-                    "name": "- Thanks"
-                }
-            }
         }
     },
-    "version": 116,
+    "version": 112,
     "fonts": [
         "SFProText-Bold"
     ],
     "compatibilityVersion": 99,
-    "app": "com.bohemiancoding.sketch3.beta",
+    "app": "com.bohemiancoding.sketch3",
     "autosaved": 0,
-    "variant": "BETA",
+    "variant": "NONAPPSTORE",
     "created": {
-        "commit": "e3473aaec6a050ee4268ca857a5af9557b6f40d0",
-        "appVersion": "53",
-        "build": 72499,
-        "app": "com.bohemiancoding.sketch3.beta",
+        "commit": "b1e0d1c5db157d3a481169aac84f04adc67d2e21",
+        "appVersion": "52.6",
+        "build": 67491,
+        "app": "com.bohemiancoding.sketch3",
         "compatibilityVersion": 99,
-        "version": 116,
-        "variant": "BETA"
+        "version": 112,
+        "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "BETA.72499"
+        "NONAPPSTORE.67491"
     ],
-    "appVersion": "53",
-    "build": 72499
+    "appVersion": "52.6",
+    "build": 67491
 }
